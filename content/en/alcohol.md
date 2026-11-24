@@ -29,7 +29,7 @@ sources: [who-alcohol-2023, luat-44-2019, luat-36-2024, dga-2025, nhmrc-2020, uk
 | WHO (statement in Lancet Public Health, 2023) | No safe level; cancer risk rises with the amount drunk | – |
 | Vietnam – Law on Prevention and Control of Harmful Effects of Alcohol (44/2019/QH14, in force 1 Jan 2020) | No "safe" amount set. Inciting or forcing others to drink is prohibited (Art. 5(1)) | People under 18 (Art. 5(2)); people driving with alcohol in their blood or breath (Art. 5(6)) |
 | Vietnam – Law on Road Traffic Order and Safety (36/2024/QH15, consolidated 23 Mar 2026) | – | Driving a road vehicle with alcohol in the blood or breath is prohibited (Art. 9(2)) |
-| US – DGA 2025–2030 (p. 4) | "Consume less alcohol for better overall health"; **no numeric limits any more** | Pregnant women; people recovering from alcohol use disorder or unable to control their drinking; people taking medicines or with conditions that interact with alcohol |
+| US – DGA 2025–2030 (p. 6) | "Consume less alcohol for better overall health"; **no numeric limits any more** | Pregnant women; people recovering from alcohol use disorder or unable to control their drinking; people taking medicines or with conditions that interact with alcohol |
 | Australia – NHMRC (2020) | Healthy adults: no more than **10 standard drinks a week** and **4 on any one day**; 1 standard drink = 10 g of pure alcohol | Under 18; pregnant or breastfeeding women |
 | UK – CMOs (2016) | No more than **14 units a week** regularly, spread over 3 or more days; 1 unit = 8 g of alcohol | Pregnancy: no safe level |
 
@@ -97,7 +97,7 @@ Checked on 25 November 2026.
 2. Anderson BO et al. *Health and cancer risks associated with low levels of alcohol consumption*. Lancet Public Health 2023;8(1):e6–e7. <https://pubmed.ncbi.nlm.nih.gov/36603913/>
 3. National Assembly of Vietnam. Law on Prevention and Control of Harmful Effects of Alcohol No. 44/2019/QH14, 14 Jun 2019, in force 1 Jan 2020 (Official Gazette Nos. 559+560, 17 Jul 2019). <https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2019/6/29251/27285-1-2019559-56044-2019-qh14.pdf>
 4. Office of the National Assembly. Consolidated text 55/VBHN-VPQH of 23 Mar 2026 – Law on Road Traffic Order and Safety (Law 36/2024/QH15, amended by Law 118/2025/QH15). <https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf>
-5. USDA, HHS. *Dietary Guidelines for Americans 2025–2030*, p. 4. <https://www.realfood.gov/documents/DGA.pdf>
+5. USDA, HHS. *Dietary Guidelines for Americans 2025–2030*, p. 6. <https://www.realfood.gov/documents/DGA.pdf>
 6. AASLD. *AASLD Raises Concern Over Removal of Evidence-Based Alcohol Guidance in 2025–2030 Dietary Guidelines for Americans*. <https://www.aasld.org/aasld-raises-concern-over-removal-evidence-based-alcohol-guidance-2025-2030-dietary-guidelines>
 7. NHMRC (Australia). *Australian guidelines to reduce health risks from drinking alcohol*, 2020. <https://nhmrc.gov.au/health-advice/alcohol>
 8. Department of Health (Australia). *Australian Alcohol Guidelines revised*. <https://health.gov.au/news/australian-alcohol-guidelines-revised>

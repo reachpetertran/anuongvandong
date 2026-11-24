@@ -26,7 +26,7 @@ sources: [who-alcohol-2023, luat-44-2019, luat-36-2024, dga-2025, nhmrc-2020, uk
 | WHO (tuyên bố trên Lancet Public Health, 2023) | Không có mức an toàn; nguy cơ ung thư tăng theo lượng uống | – |
 | Việt Nam – Luật Phòng, chống tác hại của rượu, bia (44/2019/QH14, hiệu lực 01/01/2020) | Không đặt mức uống "an toàn". Cấm xúi giục, ép buộc người khác uống (Điều 5 khoản 1) | Người chưa đủ 18 tuổi (Điều 5 khoản 2); người điều khiển phương tiện có nồng độ cồn (Điều 5 khoản 6) |
 | Việt Nam – Luật Trật tự, an toàn giao thông đường bộ (36/2024/QH15, hợp nhất 23/03/2026) | – | Cấm điều khiển phương tiện giao thông đường bộ mà trong máu hoặc hơi thở có nồng độ cồn (Điều 9 khoản 2) |
-| Mỹ – DGA 2025–2030 (tr. 4) | "Uống ít rượu hơn để sức khỏe tổng thể tốt hơn"; **không còn con số giới hạn** | Phụ nữ mang thai; người đang hồi phục khỏi rối loạn sử dụng rượu hoặc không kiểm soát được lượng uống; người dùng thuốc hay có bệnh tương tác với rượu |
+| Mỹ – DGA 2025–2030 (tr. 6) | "Uống ít rượu hơn để sức khỏe tổng thể tốt hơn"; **không còn con số giới hạn** | Phụ nữ mang thai; người đang hồi phục khỏi rối loạn sử dụng rượu hoặc không kiểm soát được lượng uống; người dùng thuốc hay có bệnh tương tác với rượu |
 | Úc – NHMRC (2020) | Người lớn khỏe: tối đa **10 ly chuẩn/tuần** và **4 ly chuẩn/ngày**; 1 ly chuẩn = 10 g cồn nguyên chất | Dưới 18 tuổi; phụ nữ mang thai, đang cho con bú |
 | Anh – CMO (2016) | Không quá **14 đơn vị/tuần** thường xuyên, chia ra từ 3 ngày trở lên; 1 đơn vị = 8 g cồn | Phụ nữ mang thai: không có mức an toàn |
 
@@ -94,7 +94,7 @@ Kiểm tra ngày 25/11/2026.
 2. Anderson BO và cộng sự. *Health and cancer risks associated with low levels of alcohol consumption*. Lancet Public Health 2023;8(1):e6–e7. <https://pubmed.ncbi.nlm.nih.gov/36603913/>
 3. Quốc hội. Luật Phòng, chống tác hại của rượu, bia số 44/2019/QH14, ngày 14/06/2019, hiệu lực 01/01/2020 (Công báo số 559+560, 17/07/2019). <https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2019/6/29251/27285-1-2019559-56044-2019-qh14.pdf>
 4. Văn phòng Quốc hội. Văn bản hợp nhất 55/VBHN-VPQH ngày 23/03/2026 – Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15). <https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf>
-5. USDA, HHS. *Dietary Guidelines for Americans 2025–2030*, tr. 4. <https://www.realfood.gov/documents/DGA.pdf>
+5. USDA, HHS. *Dietary Guidelines for Americans 2025–2030*, tr. 6. <https://www.realfood.gov/documents/DGA.pdf>
 6. AASLD. *AASLD Raises Concern Over Removal of Evidence-Based Alcohol Guidance in 2025–2030 Dietary Guidelines for Americans*. <https://www.aasld.org/aasld-raises-concern-over-removal-evidence-based-alcohol-guidance-2025-2030-dietary-guidelines>
 7. NHMRC (Úc). *Australian guidelines to reduce health risks from drinking alcohol*, 2020. <https://nhmrc.gov.au/health-advice/alcohol>
 8. Department of Health (Úc). *Australian Alcohol Guidelines revised*. <https://health.gov.au/news/australian-alcohol-guidelines-revised>
