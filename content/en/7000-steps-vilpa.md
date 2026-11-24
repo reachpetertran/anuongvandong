@@ -11,7 +11,7 @@ pillar: methods
 evidence_level: "Moderate (observational studies with a dose-response pattern)"
 checked: 2026-11-24
 review_due: 2027-05-24
-sources: [ding-2025, stamatakis-2022, byt-103-2026]
+sources: [ding-2025, stamatakis-2022, byt-103-2026, au-24h-2026-guideline]
 ---
 
 *The site is written for Vietnamese readers; the Vietnamese version is the original. Quotes from Vietnamese documents are unofficial translations.*
@@ -29,9 +29,9 @@ sources: [ding-2025, stamatakis-2022, byt-103-2026]
 | Vietnam – Department of Disease Prevention (Decision 103/QĐ-PB, 2026) | No step target; "10,000 steps" appears only as the name of community models and contests | "Take the stairs instead of the lift; walk or cycle for short trips" (section 4.4, p. 35) |
 | WHO (2020) | No step target | "Some activity is better than none"; all activity counts |
 | US, UK | The pages checked set no step target | – |
-| Australia – ages 18–64 (2026) | The recommendations page checked gives no step count | Gives stair climbing as an example that counts for both moderate and functional activity |
+| Australia – 24-Hour Guidelines, ages 18–64 and 65+ (2026) | Companion statement (pp. 14 and 17): for those who are able and track daily steps, aim for **7,000 or more steps a day** | Gives stair climbing as an example that counts for both moderate and functional activity |
 
-Step counts and VILPA are **not yet official standards**. They are simple ways to reach the activity-minutes recommendation; see [How many minutes of activity a week](/en/movement/active-minutes/). [Inference]
+Only Australia gives a step count, and it does so in a companion statement, not in the main recommendations. No standard mentions VILPA. Both are simple ways to reach the activity-minutes recommendation; see [How many minutes of activity a week](/en/movement/active-minutes/). [Inference]
 
 ## What the evidence says
 
@@ -84,3 +84,4 @@ Checked on 24 November 2026.
 2. The Lancet. Press release on the study above (23 Jul 2025). <https://www.eurekalert.org/news-releases/1092050>
 3. Stamatakis E et al. *Association of wearable device-measured vigorous intermittent lifestyle physical activity with mortality*. Nature Medicine 2022;28(12):2521–2529. <https://pmc.ncbi.nlm.nih.gov/articles/PMC9800274/>
 4. Department of Disease Prevention, Vietnam Ministry of Health. Decision 103/QĐ-PB of 13 Jul 2026. <https://viendinhduong.vn/storage/app/uploads/public/2026/07/17/2_qd_cuc_pb_ban_hanh_cam_nang_hd_h_tl_fnsigned.pdf>
+5. Department of Health, Disability and Ageing (Australia). *Australian 24-Hour Movement Guidelines for Adults (18-64 years) and Older Adults (65+ years)*, 2026, pp. 14, 17. <https://www.health.gov.au/sites/default/files/2026-03/australian-24-hour-movement-guidelines-for-adults-18-to-64-years-and-older-adults-65-years.pdf>

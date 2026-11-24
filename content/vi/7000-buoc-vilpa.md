@@ -10,7 +10,7 @@ pillar: phuong-phap
 evidence_level: "Trung bình (nghiên cứu quan sát, có quan hệ liều – đáp ứng)"
 checked: 2026-11-24
 review_due: 2027-05-24
-sources: [ding-2025, stamatakis-2022, byt-103-2026]
+sources: [ding-2025, stamatakis-2022, byt-103-2026, au-24h-2026-guideline]
 ---
 
 ## Điểm chính
@@ -26,9 +26,9 @@ sources: [ding-2025, stamatakis-2022, byt-103-2026]
 | Việt Nam – Cục Phòng bệnh (QĐ 103/QĐ-PB, 2026) | Không đặt mục tiêu số bước; "10.000 bước" chỉ xuất hiện trong tên mô hình, cuộc thi | "Đi cầu thang thay vì thang máy, đi bộ hoặc đạp xe khi di chuyển quãng đường ngắn" (mục 4.4, tr. 35) |
 | WHO (2020) | Không đặt số bước | "Có còn hơn không"; mọi lượng vận động đều tính |
 | Mỹ, Anh | Các trang đã kiểm tra không đặt số bước | – |
-| Úc – người 18–64 (2026) | Trang khuyến nghị đã kiểm tra không ghi số bước | Ví dụ leo cầu thang tính cho cả vận động vừa và bài chức năng |
+| Úc – Hướng dẫn 24 giờ, người 18–64 và ≥65 (2026) | Lời khuyên kèm theo (companion statement, tr. 14 và 17): ai có thể và đang đếm bước thì hướng tới **từ 7.000 bước/ngày** | Ví dụ leo cầu thang tính cho cả vận động vừa và bài chức năng |
 
-Số bước và VILPA **chưa phải chuẩn chính thức**. Đây là cách đơn giản để đạt khuyến nghị phút vận động, xem bài [Bao nhiêu phút vận động mỗi tuần](/van-dong/phut-van-dong/). [Suy luận]
+Chỉ Úc nêu số bước, và nêu ở phần lời khuyên kèm theo chứ không phải khuyến nghị chính. VILPA chưa có trong chuẩn nào. Cả hai là cách đơn giản để đạt khuyến nghị phút vận động, xem bài [Bao nhiêu phút vận động mỗi tuần](/van-dong/phut-van-dong/). [Suy luận]
 
 ## Bằng chứng nói gì
 
@@ -81,3 +81,4 @@ Kiểm tra ngày 24/11/2026.
 2. The Lancet. Thông cáo báo chí về nghiên cứu trên (23/07/2025). <https://www.eurekalert.org/news-releases/1092050>
 3. Stamatakis E và cộng sự. *Association of wearable device-measured vigorous intermittent lifestyle physical activity with mortality*. Nature Medicine 2022;28(12):2521–2529. <https://pmc.ncbi.nlm.nih.gov/articles/PMC9800274/>
 4. Cục Phòng bệnh, Bộ Y tế. QĐ 103/QĐ-PB ngày 13/07/2026. <https://viendinhduong.vn/storage/app/uploads/public/2026/07/17/2_qd_cuc_pb_ban_hanh_cam_nang_hd_h_tl_fnsigned.pdf>
+5. Department of Health, Disability and Ageing (Úc). *Australian 24-Hour Movement Guidelines for Adults (18-64 years) and Older Adults (65+ years)*, 2026, tr. 14, 17. <https://www.health.gov.au/sites/default/files/2026-03/australian-24-hour-movement-guidelines-for-adults-18-to-64-years-and-older-adults-65-years.pdf>
