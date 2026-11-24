@@ -23,7 +23,7 @@ sources: [ding-2025, stamatakis-2022, byt-103-2026]
 
 | Chuẩn | Số bước | Vận động ngắn trong sinh hoạt |
 |---|---|---|
-| Việt Nam – Cục Phòng bệnh (QĐ 103/QĐ-PB, 2026) | Không đặt số bước trong mục người trưởng thành | Gợi ý dùng cầu thang bộ, đi bộ hoặc đạp xe khi quãng đường phù hợp |
+| Việt Nam – Cục Phòng bệnh (QĐ 103/QĐ-PB, 2026) | Không đặt mục tiêu số bước; "10.000 bước" chỉ xuất hiện trong tên mô hình, cuộc thi | "Đi cầu thang thay vì thang máy, đi bộ hoặc đạp xe khi di chuyển quãng đường ngắn" (mục 4.4, tr. 35) |
 | WHO (2020) | Không đặt số bước | "Có còn hơn không"; mọi lượng vận động đều tính |
 | Mỹ, Anh | Các trang đã kiểm tra không đặt số bước | – |
 | Úc – người 18–64 (2026) | Trang khuyến nghị đã kiểm tra không ghi số bước | Ví dụ leo cầu thang tính cho cả vận động vừa và bài chức năng |

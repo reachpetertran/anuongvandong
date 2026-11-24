@@ -26,7 +26,7 @@ sources: [ding-2025, stamatakis-2022, byt-103-2026]
 
 | Standard | Step count | Short bursts in daily life |
 |---|---|---|
-| Vietnam – Department of Disease Prevention (Decision 103/QĐ-PB, 2026) | No step target in the adult section | Suggests taking the stairs, and walking or cycling when the distance suits |
+| Vietnam – Department of Disease Prevention (Decision 103/QĐ-PB, 2026) | No step target; "10,000 steps" appears only as the name of community models and contests | "Take the stairs instead of the lift; walk or cycle for short trips" (section 4.4, p. 35) |
 | WHO (2020) | No step target | "Some activity is better than none"; all activity counts |
 | US, UK | The pages checked set no step target | – |
 | Australia – ages 18–64 (2026) | The recommendations page checked gives no step count | Gives stair climbing as an example that counts for both moderate and functional activity |
