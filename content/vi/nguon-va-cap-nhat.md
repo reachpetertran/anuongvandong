@@ -43,6 +43,10 @@ Site không dùng blog, diễn đàn, trang bán hàng hay người có ảnh h�
 - Logo và tên "Ăn Uống Vận Động": giữ mọi quyền.
 - Đoạn trích ngắn từ tài liệu của tổ chức khác thuộc quyền của tổ chức đó.
 
+## Góp ý, báo lỗi
+
+Gửi đến <reach.petertran@gmail.com>: địa chỉ trang, đoạn sai, nguồn đúng nếu có.
+
 ## Mã nguồn
 
 Mã nguồn của site công khai tại <https://github.com/reachpetertran/anuongvandong>.

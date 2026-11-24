@@ -15,4 +15,4 @@ short: "Educational content; it does not replace personal medical advice."
 - Recommendations and figures change. Each article shows its **check date** and **re-check date**. Look at them before relying on it.
 - If you have an illness, take medicines, or are pregnant or breastfeeding: ask a health worker before changing how you eat or exercise.
 - The site takes no ads, sponsorship or sales commission. No product or brand names appear in articles.
-- Found a mistake? Note the page address and the passage. A feedback channel will be announced when ready.
+- Found a mistake? Send the page address and the passage to <reach.petertran@gmail.com>. Please do not send personal health information; the site does not give individual advice.

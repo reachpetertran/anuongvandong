@@ -12,4 +12,4 @@ short: "Nội dung giáo dục, không thay lời khuyên y tế cá nhân."
 - Khuyến nghị và số liệu có thể thay đổi. Mỗi bài ghi **ngày kiểm tra** và **hạn kiểm tra lại**. Hãy xem ngày đó trước khi dùng.
 - Nếu bạn có bệnh, đang dùng thuốc, đang mang thai hoặc cho con bú: hỏi nhân viên y tế trước khi đổi cách ăn, cách tập.
 - Site không nhận quảng cáo, tài trợ hay hoa hồng bán hàng. Tên sản phẩm, thương hiệu không xuất hiện trong bài.
-- Gặp lỗi trong bài? Ghi lại địa chỉ trang và đoạn sai. Kênh nhận góp ý sẽ được công bố khi sẵn sàng.
+- Gặp lỗi trong bài? Gửi địa chỉ trang và đoạn sai đến <reach.petertran@gmail.com>. Xin đừng gửi thông tin sức khỏe cá nhân; site không tư vấn cho từng người.

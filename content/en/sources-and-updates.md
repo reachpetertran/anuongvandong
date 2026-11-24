@@ -46,6 +46,10 @@ The site does not use blogs, forums, shops or online influencers as sources.
 - The logo and the name "Ăn Uống Vận Động": all rights reserved.
 - Short quotes from other organisations' documents remain theirs.
 
+## Feedback and corrections
+
+Send to <reach.petertran@gmail.com>: the page address, the passage, and the correct source if you have it.
+
 ## Source code
 
 The site's source code is public at <https://github.com/reachpetertran/anuongvandong>.
