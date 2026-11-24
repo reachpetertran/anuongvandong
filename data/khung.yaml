@@ -1,0 +1,116 @@
+# Khung chương trình anuongvandong.com – nguồn: 2-CONTEXT.md mục 3 (Peter duyệt 24/11/2026).
+# Mỗi bài: slug (trùng slug bài tiếng Việt khi đã viết), ten / ten_en, pha (1, 2), rui_ro (true = chỉ để nháp).
+# Bài chỉ hiện link khi đã có bài status: published ở cả hai ngôn ngữ.
+
+phan:
+  - so: 0
+    slug: bat-dau
+    ten: Bắt đầu ở đây
+    ten_en: Start here
+    muc_tieu: Phân biệt "liên quan" với "nhân quả" qua 3 ví dụ; biết site là gì, không là gì, và khi nào cần gặp nhân viên y tế.
+    muc_tieu_en: Tell "associated with" apart from "causes" in 3 examples; know what this site is and is not, and when to see a health worker.
+    bai:
+      - {slug: bat-dau-o-day, ten: "Site này là gì, không là gì", ten_en: "What this site is – and is not", pha: 1}
+      - {slug: doc-bang-chung, ten: "Đọc bằng chứng: RCT, meta-analysis, nghiên cứu quan sát", ten_en: "Reading evidence: RCTs, meta-analyses, observational studies", pha: 1}
+
+  - so: 1
+    slug: an-uong
+    ten: Ăn uống nền tảng
+    ten_en: Eating basics
+    muc_tieu: Tự ước lượng lượng muối trong 1 ngày ăn kiểu Việt và nêu 3 cách giảm.
+    muc_tieu_en: Estimate the salt in one day of Vietnamese-style eating and name 3 ways to cut it.
+    bai:
+      - {slug: muoi, ten: "Muối: ăn mặn kiểu Việt và cách giảm", ten_en: "Salt: the Vietnamese salty habit and how to cut back", pha: 1}
+      - {slug: dia-an, ten: "Đĩa ăn và tháp dinh dưỡng", ten_en: "The plate and the food pyramid", pha: 1}
+      - {slug: duong-tu-do, ten: "Đường tự do và đồ uống có đường", ten_en: "Free sugars and sugary drinks", pha: 1}
+      - {slug: sieu-che-bien, ten: "Thực phẩm siêu chế biến", ten_en: "Ultra-processed foods", pha: 1}
+      - {slug: ruou-bia, ten: "Rượu bia", ten_en: "Alcohol", pha: 1}
+      - {slug: nuoc, ten: "Uống nước", ten_en: "Drinking water", pha: 1}
+      - {slug: dam, ten: "Chất đạm: các chuẩn nói khác nhau thế nào", ten_en: "Protein: how the standards differ", pha: 1}
+
+  - so: 2
+    slug: van-dong
+    ten: Vận động
+    ten_en: Movement
+    muc_tieu: Tự lập lịch tuần có ≥150 phút vận động vừa và 2 buổi tập sức mạnh.
+    muc_tieu_en: Plan a week with at least 150 minutes of moderate activity and 2 strength sessions.
+    bai:
+      - {slug: phut-van-dong, ten: "Bao nhiêu phút vận động mỗi tuần", ten_en: "How many minutes of activity a week", pha: 1}
+      - {slug: suc-manh-thang-bang, ten: "Sức mạnh và thăng bằng", ten_en: "Strength and balance", pha: 1}
+      - {slug: ngoi-lau, ten: "Ngồi lâu và cách ngắt quãng", ten_en: "Sitting too long and how to break it up", pha: 1}
+
+  - so: 3
+    slug: ngu-nghi
+    ten: Ngủ và nghỉ
+    ten_en: Sleep and rest
+    muc_tieu: Tính khung giờ ngủ hợp tuổi và nêu 5 thói quen giúp ngủ.
+    muc_tieu_en: Work out a sleep window that fits your age and name 5 habits that help sleep.
+    bai:
+      - {slug: gio-ngu, ten: "Ngủ bao nhiêu giờ là đủ", ten_en: "How much sleep is enough", pha: 1}
+      - {slug: ve-sinh-giac-ngu, ten: "Thói quen giúp ngủ", ten_en: "Habits that help sleep", pha: 1}
+      - {slug: mat-ngu-man-tinh, ten: "Dấu hiệu mất ngủ mạn tính", ten_en: "Signs of chronic insomnia", pha: 1, rui_ro: true}
+
+  - so: 4
+    slug: tho
+    ten: Thở
+    ten_en: Breathing
+    muc_tieu: Tập được bài thở chậm 5 phút và biết giới hạn của bằng chứng.
+    muc_tieu_en: Do a 5-minute slow-breathing exercise and know the limits of the evidence.
+    bai:
+      - {slug: tho-cham, ten: "Thở chậm 5 phút", ten_en: "Five minutes of slow breathing", pha: 1}
+
+  - so: 5
+    slug: thien
+    ten: Thiền chánh niệm
+    ten_en: Mindfulness meditation
+    muc_tieu: Nhận diện 4 dấu hiệu cần dừng tập thiền.
+    muc_tieu_en: Recognise 4 signs that you should stop a meditation practice.
+    bai:
+      - {slug: thien-10-phut, ten: "Chánh niệm hơi thở 10 phút", ten_en: "Ten minutes of breath awareness", pha: 1}
+
+  - so: 6
+    slug: tam-sinh-ly
+    ten: Tâm sinh lý theo giai đoạn đời
+    ten_en: Body and mind through life stages
+    muc_tieu: Biết thay đổi chính ở từng giai đoạn và nơi tìm hướng dẫn chính thức.
+    muc_tieu_en: Know the main changes in each life stage and where to find official guidance.
+    bai:
+      - {slug: dau-thi, ten: "Tuổi dậy thì", ten_en: "Puberty", pha: 2}
+      - {slug: cang-thang, ten: "Căng thẳng", ten_en: "Stress", pha: 1}
+      - {slug: man-kinh, ten: "Mãn kinh, mãn dục", ten_en: "Menopause and andropause", pha: 2, rui_ro: true}
+      - {slug: lao-hoa, ten: "Lão hóa khỏe", ten_en: "Healthy ageing", pha: 2}
+
+  - so: 7
+    slug: phuong-phap
+    ten: Phương pháp tối giản
+    ten_en: Minimal methods
+    muc_tieu: Với mỗi phương pháp, nói được mức bằng chứng và ai không nên áp dụng.
+    muc_tieu_en: For each method, state the level of evidence and who should not use it.
+    bai:
+      - {slug: nhin-an-gian-doan, ten: "Nhịn ăn gián đoạn (16:8, 5:2…)", ten_en: "Intermittent fasting (16:8, 5:2…)", pha: 1}
+      - {slug: an-dua-tren-thuc-vat, ten: "Ăn dựa trên thực vật", ten_en: "Plant-based eating", pha: 1}
+      - {slug: 7000-buoc-vilpa, ten: "7.000 bước và VILPA", ten_en: "7,000 steps and VILPA", pha: 1}
+      - {slug: ngu-tho-thien-toi-gian, ten: "Ngủ – thở – thiền tối giản", ten_en: "Minimal sleep, breathing and meditation", pha: 1}
+
+  - so: 8
+    slug: hieu-dung
+    ten: Hiểu đúng – Ngộ nhận
+    ten_en: Myths and facts
+    muc_tieu: Nhận ra 3 ngộ nhận phổ biến và chỉ được nguồn bác bỏ.
+    muc_tieu_en: Spot 3 common myths and point to the source that corrects each one.
+    bai:
+      - {slug: ngo-nhan-nhin-an, ten: "“Nhịn ăn gián đoạn giảm cân tốt hơn”", ten_en: "“Intermittent fasting beats ordinary dieting”", pha: 1}
+      - {slug: ngo-nhan-detox, ten: "“Detox bằng nước ép”", ten_en: "“Juice detox”", pha: 1}
+      - {slug: ngo-nhan-muoi, ten: "“Ăn nhạt chỉ là bớt muối hạt”", ten_en: "“Eating less salt just means less table salt”", pha: 1}
+
+  - so: 9
+    slug: nguon
+    ten: Nguồn, cách biên tập, quyền riêng tư
+    ten_en: Sources, editing, privacy
+    muc_tieu: Biết site lấy số liệu từ đâu, cập nhật khi nào và tìm trợ giúp ở đâu.
+    muc_tieu_en: Know where the figures come from, when they are updated and where to find help.
+    bai:
+      - {slug: nguon-va-cap-nhat, ten: "Nguồn và cách biên tập", ten_en: "Sources and how we edit", pha: 1}
+      - {slug: mien-tru, ten: "Miễn trừ trách nhiệm", ten_en: "Disclaimer", pha: 1}
+      - {slug: rieng-tu, ten: "Quyền riêng tư", ten_en: "Privacy", pha: 1}
+      - {slug: tim-tro-giup, ten: "Tìm trợ giúp", ten_en: "Find help", pha: 1}

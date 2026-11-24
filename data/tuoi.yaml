@@ -1,0 +1,12 @@
+# Nhóm tuổi – [Suy luận] căn theo mốc của các hướng dẫn (2-CONTEXT.md mục 3). pha: 1 = đang viết, 2 = sau.
+nhom:
+  - {slug: mang-thai-cho-bu, ten: "Mang thai và cho con bú", ten_en: "Pregnancy and breastfeeding", moc: "", pha: 2, rui_ro: true}
+  - {slug: nhu-nhi, ten: "Nhũ nhi", ten_en: "Young infants", moc: "0 – dưới 6 tháng", moc_en: "0 – under 6 months", pha: 2, rui_ro: true}
+  - {slug: an-dam, ten: "Ăn dặm", ten_en: "Starting solids", moc: "6–11 tháng", moc_en: "6–11 months", pha: 2, rui_ro: true}
+  - {slug: tre-nho, ten: "Trẻ nhỏ", ten_en: "Toddlers", moc: "1–2 tuổi", moc_en: "1–2 years", pha: 2}
+  - {slug: mam-non, ten: "Mầm non", ten_en: "Preschool", moc: "3–5 tuổi", moc_en: "3–5 years", pha: 2}
+  - {slug: tieu-hoc, ten: "Tiểu học", ten_en: "Primary school", moc: "6–11 tuổi", moc_en: "6–11 years", pha: 2}
+  - {slug: vi-thanh-nien, ten: "Vị thành niên", ten_en: "Teenagers", moc: "12–17 tuổi", moc_en: "12–17 years", pha: 2}
+  - {slug: truong-thanh-tre, ten: "Trưởng thành trẻ", ten_en: "Young adults", moc: "18–39 tuổi", moc_en: "18–39 years", pha: 1}
+  - {slug: trung-nien, ten: "Trung niên", ten_en: "Middle age", moc: "40–64 tuổi", moc_en: "40–64 years", pha: 1}
+  - {slug: cao-tuoi, ten: "Cao tuổi", ten_en: "Older adults", moc: "65–74, 75–84, từ 85", moc_en: "65–74, 75–84, 85+", pha: 2}
