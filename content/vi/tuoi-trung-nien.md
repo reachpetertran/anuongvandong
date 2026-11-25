@@ -43,7 +43,7 @@ Các mốc trên lấy từ các bài đã đăng, mỗi bài ghi nguồn và ng
 
 **Thăng bằng không chờ đến tuổi già.** Úc (2026) khuyên bài thăng bằng, phối hợp ít nhất 3 ngày/tuần cho cả người 18–64. Việt Nam và WHO khuyên điều này từ 60 và 65 tuổi. [Đã xác nhận] Tập sớm là cách đơn giản để chuẩn bị cho tuổi cao. [Suy luận]
 
-**Mãn kinh.** Đây là chủ đề rủi ro cao (nhất là liệu pháp hormone); site chưa đăng bài riêng. Nếu triệu chứng làm ảnh hưởng cuộc sống, hãy hỏi nhân viên y tế. [Đánh giá chuyên môn]
+**Mãn kinh.** Thường đến trong khoảng 45–55 tuổi. Xem bài [Mãn kinh](/tam-sinh-ly/man-kinh/): triệu chứng, những gì giúp được, các chuẩn nói gì về liệu pháp hormone. [Đã xác nhận]
 
 ## Khám sàng lọc: các chuẩn nói gì
 

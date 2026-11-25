@@ -46,7 +46,7 @@ These bands come from the published articles; each article gives its own sources
 
 **Balance does not have to wait for old age.** Australia (2026) advises balance and coordination activity at least 3 days a week for all adults 18–64. Vietnam and WHO advise this from 60 and 65. [Verified] Starting early is a simple way to prepare for older age. [Inference]
 
-**Menopause.** This is a high-risk topic (especially hormone therapy); the site has not published a separate article. If symptoms affect your daily life, talk to a health worker. [Expert judgement]
+**Menopause.** It usually comes between 45 and 55. See [Menopause](/en/life-stages/menopause/): symptoms, what helps, and what the standards say about hormone therapy. [Verified]
 
 ## Screening: what the standards say
 
