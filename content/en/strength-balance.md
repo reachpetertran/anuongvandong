@@ -9,8 +9,8 @@ short: "Every standard says to do muscle-strengthening on at least 2 days a week
 age_groups: [18-39, 40-64]
 pillar: movement
 evidence_level: "High for the strength recommendation (WHO: strong recommendation); Moderate for the 30–60 minutes a week figure (cohort studies)"
-checked: 2026-11-24
-review_due: 2027-05-24
+checked: 2026-11-25
+review_due: 2027-05-25
 sources: [byt-103-2026, who-pa-2020, pag-2018, au-24h-2026-guideline, uk-cmo-2019, momma-2022, cochrane-falls-2019]
 ---
 
@@ -30,7 +30,7 @@ sources: [byt-103-2026, who-pa-2020, pag-2018, au-24h-2026-guideline, uk-cmo-201
 | WHO (2020) | At least 2 days a week, moderate or greater intensity, all major muscle groups | From 65: varied multicomponent activity emphasising functional balance and strength on at least 3 days a week |
 | US – PAG, 2nd edition | At least 2 days a week, all major muscle groups | Older adults: multicomponent activity including balance training (no number of days given) |
 | Australia – 24-Hour Guidelines (2026), 18–64 and 65+ | 2 or more days, moderate or greater intensity, all main muscle groups | **3 or more days a week** of functional activities for mobility, balance and coordination – for adults aged 18–64 too |
-| UK – CMOs (2019) | Adults: at least 2 days a week | Older adults: strength, balance and flexibility on at least 2 days a week |
+| UK – CMOs (updated 10 Jul 2026) | Adults: at least 2 days a week | Older adults: strength, balance and flexibility on at least 2 days a week |
 
 The standards agree on strength. They differ on balance: Australia includes it for all adults; the others list it only for older adults. [Verified]
 
@@ -101,7 +101,7 @@ Checked on 24 November 2026.
 4. ODPHP (US). *Top 10 Things to Know About the Second Edition of the Physical Activity Guidelines for Americans*. <https://odphp.health.gov/our-work/physical-activity/current-guidelines/top-10-things-know>
 5. CDC (US). *What Counts as Physical Activity for Older Adults*. <https://cdc.gov/physical-activity-basics/adding-older-adults/what-counts.html>
 6. Department of Health, Disability and Ageing (Australia). *Australian 24-Hour Movement Guidelines for Adults (18-64 years) and Older Adults (65+ years)*, 2026, pp. 13–17. <https://www.health.gov.au/sites/default/files/2026-03/australian-24-hour-movement-guidelines-for-adults-18-to-64-years-and-older-adults-65-years.pdf>
-7. UK Chief Medical Officers. *Physical activity for adults and older adults: 19 and over* (infographic text, 2019). <https://gov.uk/government/publications/physical-activity-guidelines-adults-and-older-adults/physical-activity-for-adults-and-older-adults-19-and-over-text-of-the-infographic>
+7. UK Chief Medical Officers. *UK Chief Medical Officers' physical activity guidelines* (updated 10 Jul 2026; recommended amounts unchanged from 2019). <https://www.gov.uk/government/publications/physical-activity-guidelines-uk-chief-medical-officers-report/uk-chief-medical-officers-physical-activity-guidelines>
 8. NHS. *Physical activity guidelines for older adults*. <https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-older-adults/>
 9. Momma H et al. *Muscle-strengthening activities are associated with lower risk and mortality in major non-communicable diseases: a systematic review and meta-analysis of cohort studies*. Br J Sports Med 2022;56(13):755–763. <https://pubmed.ncbi.nlm.nih.gov/35228201/>
 10. Sherrington C et al. *Exercise for preventing falls in older people living in the community*. Cochrane Database Syst Rev 2019;1:CD012424. <https://pubmed.ncbi.nlm.nih.gov/30703272/>

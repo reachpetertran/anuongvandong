@@ -8,8 +8,8 @@ short: "Mọi chuẩn đều khuyên tập cơ ít nhất 2 ngày mỗi tuần. 
 age_groups: [18-39, 40-64]
 pillar: van-dong
 evidence_level: "Cao cho khuyến nghị tập cơ (WHO: khuyến nghị mạnh); Trung bình cho con số 30–60 phút/tuần (nghiên cứu đoàn hệ)"
-checked: 2026-11-24
-review_due: 2027-05-24
+checked: 2026-11-25
+review_due: 2027-05-25
 sources: [byt-103-2026, who-pa-2020, pag-2018, au-24h-2026-guideline, uk-cmo-2019, momma-2022, cochrane-falls-2019]
 ---
 
@@ -27,7 +27,7 @@ sources: [byt-103-2026, who-pa-2020, pag-2018, au-24h-2026-guideline, uk-cmo-201
 | WHO (2020) | Ít nhất 2 ngày/tuần, cường độ vừa trở lên, tất cả nhóm cơ chính | Từ 65 tuổi: ít nhất 3 ngày/tuần vận động đa thành phần, nhấn mạnh thăng bằng chức năng và sức mạnh |
 | Mỹ – PAG, bản thứ hai | Ít nhất 2 ngày/tuần, tất cả nhóm cơ chính | Người cao tuổi: vận động đa thành phần có bài thăng bằng (không ghi số ngày) |
 | Úc – Hướng dẫn 24 giờ (2026), 18–64 và ≥65 | 2 ngày trở lên, cường độ vừa trở lên, tất cả nhóm cơ chính | **3 ngày/tuần trở lên** bài chức năng cho khả năng di chuyển, thăng bằng, phối hợp – áp dụng cả người 18–64 |
-| Anh – CMO (2019) | Người lớn: ít nhất 2 ngày/tuần | Người cao tuổi: sức mạnh, thăng bằng, dẻo dai ít nhất 2 ngày/tuần |
+| Anh – CMO (cập nhật 10/07/2026) | Người lớn: ít nhất 2 ngày/tuần | Người cao tuổi: sức mạnh, thăng bằng, dẻo dai ít nhất 2 ngày/tuần |
 
 Các chuẩn thống nhất về tập cơ. Khác nhau ở bài thăng bằng: Úc đưa vào cho mọi người lớn; các chuẩn còn lại chỉ ghi riêng cho người cao tuổi. [Đã xác nhận]
 
@@ -98,7 +98,7 @@ Kiểm tra ngày 24/11/2026.
 4. ODPHP (Mỹ). *Top 10 Things to Know About the Second Edition of the Physical Activity Guidelines for Americans*. <https://odphp.health.gov/our-work/physical-activity/current-guidelines/top-10-things-know>
 5. CDC (Mỹ). *What Counts as Physical Activity for Older Adults*. <https://cdc.gov/physical-activity-basics/adding-older-adults/what-counts.html>
 6. Department of Health, Disability and Ageing (Úc). *Australian 24-Hour Movement Guidelines for Adults (18-64 years) and Older Adults (65+ years)*, 2026, tr. 13–17. <https://www.health.gov.au/sites/default/files/2026-03/australian-24-hour-movement-guidelines-for-adults-18-to-64-years-and-older-adults-65-years.pdf>
-7. UK Chief Medical Officers. *Physical activity for adults and older adults: 19 and over* (văn bản infographic, 2019). <https://gov.uk/government/publications/physical-activity-guidelines-adults-and-older-adults/physical-activity-for-adults-and-older-adults-19-and-over-text-of-the-infographic>
+7. UK Chief Medical Officers. *UK Chief Medical Officers' physical activity guidelines* (cập nhật 10/07/2026; số khuyến nghị giữ như bản 2019). <https://www.gov.uk/government/publications/physical-activity-guidelines-uk-chief-medical-officers-report/uk-chief-medical-officers-physical-activity-guidelines>
 8. NHS. *Physical activity guidelines for older adults*. <https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-older-adults/>
 9. Momma H và cộng sự. *Muscle-strengthening activities are associated with lower risk and mortality in major non-communicable diseases: a systematic review and meta-analysis of cohort studies*. Br J Sports Med 2022;56(13):755–763. <https://pubmed.ncbi.nlm.nih.gov/35228201/>
 10. Sherrington C và cộng sự. *Exercise for preventing falls in older people living in the community*. Cochrane Database Syst Rev 2019;1:CD012424. <https://pubmed.ncbi.nlm.nih.gov/30703272/>

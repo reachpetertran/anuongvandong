@@ -9,8 +9,8 @@ short: "Every standard says to sit less and break up sitting time. None sets a s
 age_groups: [18-39, 40-64]
 pillar: movement
 evidence_level: "Moderate (mostly observational studies with consistent results)"
-checked: 2026-11-24
-review_due: 2027-05-24
+checked: 2026-11-25
+review_due: 2027-05-25
 sources: [byt-103-2026, who-pa-2020, pag-2018, au-24h-2026-guideline, uk-cmo-2019, ekelund-2016, ekelund-2020]
 ---
 
@@ -30,7 +30,7 @@ sources: [byt-103-2026, who-pa-2020, pag-2018, au-24h-2026-guideline, uk-cmo-201
 | WHO (2020) | Limit sedentary time; replace it with activity of any intensity. To reduce the harm of high sitting, aim for **more** than the recommended activity | No – evidence was insufficient to quantify a threshold |
 | US – PAG, 2nd edition | The first key guideline for adults: move more and sit less | No |
 | Australia – 24-Hour Guidelines (2026) | Limit sedentary time; break up long periods of sitting **as often as possible**; replace sitting (including recreational screen time) with activity | No |
-| UK – CMOs (2019) | Minimise sedentary time; when physically possible, break up long periods with at least light activity | No – evidence does not support a specific limit |
+| UK – CMOs (updated 10 Jul 2026) | Minimise sedentary time; break up long periods with at least light activity. The 2026 update cites one review: each extra hour of sitting is associated with about 5% higher risk | No – evidence still does not support a specific limit |
 
 **Sedentary behaviour** means sitting, reclining or lying down while awake, using little energy (≤1.5 MET). Examples: desk work, driving, watching TV. [Verified]
 
@@ -85,6 +85,6 @@ Checked on 24 November 2026.
 2. Bull FC et al. *World Health Organization 2020 guidelines on physical activity and sedentary behaviour*. Br J Sports Med 2020;54:1451–1462. <https://bjsm.bmj.com/content/54/24/1451>
 3. ODPHP (US). *Top 10 Things to Know About the Second Edition of the Physical Activity Guidelines for Americans*. <https://odphp.health.gov/paguidelines/second-edition/10things/>
 4. Department of Health, Disability and Ageing (Australia). *Australian 24-Hour Movement Guidelines for Adults (18-64 years) and Older Adults (65+ years)*, 2026, pp. 13–14. <https://www.health.gov.au/sites/default/files/2026-03/australian-24-hour-movement-guidelines-for-adults-18-to-64-years-and-older-adults-65-years.pdf>
-5. UK Chief Medical Officers. *UK Chief Medical Officers' Physical Activity Guidelines*, 7 Sep 2019. <https://www.gov.wales/sites/default/files/publications/2022-03/uk-chief-medical-officers-physical-activity-guidelines.pdf>
+5. UK Chief Medical Officers. *UK Chief Medical Officers' physical activity guidelines* (updated 10 Jul 2026; recommended amounts unchanged from 2019). <https://www.gov.uk/government/publications/physical-activity-guidelines-uk-chief-medical-officers-report/uk-chief-medical-officers-physical-activity-guidelines>
 6. Ekelund U et al. *Does physical activity attenuate, or even eliminate, the detrimental association of sitting time with mortality? A harmonised meta-analysis of data from more than 1 million men and women*. Lancet 2016;388:1302. doi:10.1016/S0140-6736(16)30370-1. <https://www.repository.cam.ac.uk/handle/1810/255142>
 7. Ekelund U et al. *Joint associations of accelerometer-measured physical activity and sedentary time with all-cause mortality*. Br J Sports Med 2020;54:1499–1506. <https://pmc.ncbi.nlm.nih.gov/articles/PMC7719907>

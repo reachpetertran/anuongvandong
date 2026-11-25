@@ -9,8 +9,8 @@ short: "Vietnam's Ministry of Health, WHO, the US, Australia and the UK share on
 age_groups: [18-39, 40-64]
 pillar: movement
 evidence_level: "High (WHO grades it a strong recommendation)"
-checked: 2026-11-24
-review_due: 2027-05-24
+checked: 2026-11-25
+review_due: 2027-05-25
 sources: [byt-103-2026, who-pa-2020, who-pa-factsheet-2026, pag-2018, au-24h-2026, nhs-pa-adults]
 ---
 
@@ -33,6 +33,8 @@ sources: [byt-103-2026, who-pa-2020, who-pa-factsheet-2026, pag-2018, au-24h-202
 | UK – NHS, ages 19–64 | At least 150 min moderate or 75 min vigorous | At least 2 days a week | Sit less; break it up with activity |
 
 The standards almost match. Australia differs by adding balance work for ages 18–64 and by framing activity per day rather than per week. [Verified]
+
+The UK (CMOs, updated 10 Jul 2026) keeps the 150 minutes and makes clear they **can be accumulated in bouts of any length**, including under 10 minutes. [Verified]
 
 ## What counts as "moderate" and "vigorous"
 
@@ -86,3 +88,4 @@ Checked on 24 November 2026.
 4. ODPHP (US). *Top 10 Things to Know About the Second Edition of the Physical Activity Guidelines for Americans*. <https://odphp.health.gov/our-work/nutrition-physical-activity/physical-activity-guidelines/current-guidelines/top-10-things-know>
 5. Department of Health, Disability and Ageing (Australia). *Recommendations for adults (18 to 64 years)*, updated 3 Jun 2026. <https://www.health.gov.au/topics/physical-activity/24-hour-movement-guidelines-for-all-australians/recommendations-for-adults-18-to-64-years>
 6. NHS. *Physical activity guidelines for adults aged 19 to 64*. <https://www.nhs.uk/live-well/exercise/exercise-guidelines/physical-activity-guidelines-for-adults-aged-19-to-64/>
+7. UK Chief Medical Officers. *UK Chief Medical Officers' physical activity guidelines* (updated 10 Jul 2026). <https://www.gov.uk/government/publications/physical-activity-guidelines-uk-chief-medical-officers-report/uk-chief-medical-officers-physical-activity-guidelines>

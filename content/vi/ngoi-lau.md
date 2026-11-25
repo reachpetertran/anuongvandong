@@ -8,8 +8,8 @@ short: "Mọi chuẩn đều khuyên ngồi ít lại và ngắt quãng thời g
 age_groups: [18-39, 40-64]
 pillar: van-dong
 evidence_level: "Trung bình (chủ yếu nghiên cứu quan sát, kết quả nhất quán)"
-checked: 2026-11-24
-review_due: 2027-05-24
+checked: 2026-11-25
+review_due: 2027-05-25
 sources: [byt-103-2026, who-pa-2020, pag-2018, au-24h-2026-guideline, uk-cmo-2019, ekelund-2016, ekelund-2020]
 ---
 
@@ -27,7 +27,7 @@ sources: [byt-103-2026, who-pa-2020, pag-2018, au-24h-2026-guideline, uk-cmo-201
 | WHO (2020) | Hạn chế thời gian tĩnh tại; thay bằng vận động bất kỳ cường độ. Để giảm tác hại của ngồi nhiều, nên vận động **nhiều hơn** mức khuyến nghị | Không – bằng chứng chưa đủ để định lượng ngưỡng |
 | Mỹ – PAG, bản thứ hai | Khuyến nghị đầu tiên cho người lớn: vận động nhiều hơn, ngồi ít hơn | Không |
 | Úc – Hướng dẫn 24 giờ (2026) | Hạn chế thời gian tĩnh tại; ngắt quãng ngồi lâu **càng thường xuyên càng tốt**; thay ngồi (kể cả xem màn hình giải trí) bằng vận động | Không |
-| Anh – CMO (2019) | Giảm tối đa thời gian tĩnh tại; khi có thể, ngắt quãng bằng ít nhất vận động nhẹ | Không – bằng chứng chưa ủng hộ đặt ngưỡng |
+| Anh – CMO (cập nhật 10/07/2026) | Giảm tối đa thời gian tĩnh tại; ngắt quãng bằng ít nhất vận động nhẹ. Bản 2026 dẫn một tổng quan: mỗi giờ ngồi thêm liên quan với nguy cơ tăng khoảng 5% | Không – bằng chứng vẫn chưa ủng hộ đặt ngưỡng |
 
 **Hành vi tĩnh tại** là ngồi, ngả lưng, nằm khi đang thức, tiêu hao năng lượng thấp (≤1,5 MET). Ví dụ: làm việc bàn giấy, lái xe, xem tivi. [Đã xác nhận]
 
@@ -82,6 +82,6 @@ Kiểm tra ngày 24/11/2026.
 2. Bull FC và cộng sự. *World Health Organization 2020 guidelines on physical activity and sedentary behaviour*. Br J Sports Med 2020;54:1451–1462. <https://bjsm.bmj.com/content/54/24/1451>
 3. ODPHP (Mỹ). *Top 10 Things to Know About the Second Edition of the Physical Activity Guidelines for Americans*. <https://odphp.health.gov/paguidelines/second-edition/10things/>
 4. Department of Health, Disability and Ageing (Úc). *Australian 24-Hour Movement Guidelines for Adults (18-64 years) and Older Adults (65+ years)*, 2026, tr. 13–14. <https://www.health.gov.au/sites/default/files/2026-03/australian-24-hour-movement-guidelines-for-adults-18-to-64-years-and-older-adults-65-years.pdf>
-5. UK Chief Medical Officers. *UK Chief Medical Officers' Physical Activity Guidelines*, 07/09/2019. <https://www.gov.wales/sites/default/files/publications/2022-03/uk-chief-medical-officers-physical-activity-guidelines.pdf>
+5. UK Chief Medical Officers. *UK Chief Medical Officers' physical activity guidelines* (cập nhật 10/07/2026; số khuyến nghị giữ như bản 2019). <https://www.gov.uk/government/publications/physical-activity-guidelines-uk-chief-medical-officers-report/uk-chief-medical-officers-physical-activity-guidelines>
 6. Ekelund U và cộng sự. *Does physical activity attenuate, or even eliminate, the detrimental association of sitting time with mortality? A harmonised meta-analysis of data from more than 1 million men and women*. Lancet 2016;388:1302. doi:10.1016/S0140-6736(16)30370-1. <https://www.repository.cam.ac.uk/handle/1810/255142>
 7. Ekelund U và cộng sự. *Joint associations of accelerometer-measured physical activity and sedentary time with all-cause mortality*. Br J Sports Med 2020;54:1499–1506. <https://pmc.ncbi.nlm.nih.gov/articles/PMC7719907>

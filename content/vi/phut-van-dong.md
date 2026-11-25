@@ -8,8 +8,8 @@ short: "Bộ Y tế, WHO, Mỹ, Úc, Anh cùng một khung: 150–300 phút vậ
 age_groups: [18-39, 40-64]
 pillar: van-dong
 evidence_level: "Cao (WHO xếp là khuyến nghị mạnh)"
-checked: 2026-11-24
-review_due: 2027-05-24
+checked: 2026-11-25
+review_due: 2027-05-25
 sources: [byt-103-2026, who-pa-2020, who-pa-factsheet-2026, pag-2018, au-24h-2026, nhs-pa-adults]
 ---
 
@@ -30,6 +30,8 @@ sources: [byt-103-2026, who-pa-2020, who-pa-factsheet-2026, pag-2018, au-24h-202
 | Anh – NHS, người 19–64 | Ít nhất 150 phút vừa hoặc 75 phút mạnh | Ít nhất 2 ngày/tuần | Giảm ngồi, ngắt quãng bằng vận động |
 
 Các chuẩn gần như trùng nhau. Úc khác ở chỗ thêm bài thăng bằng cho cả người 18–64 và chia theo ngày thay vì theo tuần. [Đã xác nhận]
+
+Anh (CMO, cập nhật 10/07/2026) giữ nguyên con số 150 phút, và nói rõ 150 phút này **có thể cộng dồn từ các đợt ngắn bất kỳ độ dài**, kể cả dưới 10 phút. [Đã xác nhận]
 
 ## Thế nào là "vừa" và "mạnh"
 
@@ -83,3 +85,4 @@ Kiểm tra ngày 24/11/2026.
 4. ODPHP (Mỹ). *Top 10 Things to Know About the Second Edition of the Physical Activity Guidelines for Americans*. <https://odphp.health.gov/our-work/nutrition-physical-activity/physical-activity-guidelines/current-guidelines/top-10-things-know>
 5. Department of Health, Disability and Ageing (Úc). *Recommendations for adults (18 to 64 years)*, cập nhật 03/06/2026. <https://www.health.gov.au/topics/physical-activity/24-hour-movement-guidelines-for-all-australians/recommendations-for-adults-18-to-64-years>
 6. NHS. *Physical activity guidelines for adults aged 19 to 64*. <https://www.nhs.uk/live-well/exercise/exercise-guidelines/physical-activity-guidelines-for-adults-aged-19-to-64/>
+7. UK Chief Medical Officers. *UK Chief Medical Officers' physical activity guidelines* (cập nhật 10/07/2026). <https://www.gov.uk/government/publications/physical-activity-guidelines-uk-chief-medical-officers-report/uk-chief-medical-officers-physical-activity-guidelines>
