@@ -400,7 +400,7 @@ def build(out, preview):
         '<p class="lead">Ăn uống, vận động, giấc ngủ, thở và thiền theo từng độ tuổi. Mỗi con số có nguồn, '
         'phiên bản và ngày kiểm tra. Khi các chuẩn WHO, Việt Nam, Mỹ, Úc, Anh nói khác nhau, site đặt chúng '
         'cạnh nhau.</p><div class="cta"><a class="btn primary" href="/khung-chuong-trinh/">Xem khung chương trình</a>'
-        + (f'<a class="btn" href="{TUOI_URL[("vi", "18-39")]}">Theo tuổi: 18–39</a>' if ('vi', '18-39') in TUOI_URL else '')
+        + ''.join(f' <a class="btn" href="{TUOI_URL[("vi", m)]}">Theo tuổi: {m.replace("-", "–")}</a>' for m in ('18-39', '40-64') if ('vi', m) in TUOI_URL)
         + (f'<a class="btn" href="{mau.url}">Đọc bài mẫu: Muối</a>' if mau else '') +
         '</div></div><img src="/assets/logo/anuongvandong-logo.svg" alt="Logo Ăn Uống Vận Động" width="260" '
         'height="278"></section>'
@@ -416,7 +416,7 @@ def build(out, preview):
         'group. Every figure comes with its source, version and check date. Where WHO, Vietnam, the US, Australia '
         'and the UK disagree, the site shows them side by side.</p><div class="cta"><a class="btn primary" '
         'href="/en/curriculum/">See the curriculum</a>'
-        + (f'<a class="btn" href="{TUOI_URL[("en", "18-39")]}">By age: 18–39</a>' if ('en', '18-39') in TUOI_URL else '')
+        + ''.join(f' <a class="btn" href="{TUOI_URL[("en", m)]}">By age: {m.replace("-", "–")}</a>' for m in ('18-39', '40-64') if ('en', m) in TUOI_URL)
         + (f'<a class="btn" href="{mau_en.url}">Sample article: Salt</a>' if mau_en else '') +
         '</div></div><img src="/assets/logo/anuongvandong-logo.svg" alt="Ăn Uống Vận Động logo" width="260" '
         'height="278"></section>'
