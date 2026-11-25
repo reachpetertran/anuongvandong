@@ -49,7 +49,7 @@ phan:
     bai:
       - {slug: gio-ngu, ten: "Ngủ bao nhiêu giờ là đủ", ten_en: "How much sleep is enough", pha: 1}
       - {slug: ve-sinh-giac-ngu, ten: "Thói quen giúp ngủ", ten_en: "Habits that help sleep", pha: 1}
-      - {slug: mat-ngu-man-tinh, ten: "Dấu hiệu mất ngủ mạn tính", ten_en: "Signs of chronic insomnia", pha: 1, rui_ro: true}
+      - {slug: mat-ngu-man-tinh, ten: "Dấu hiệu mất ngủ mạn tính", ten_en: "Signs of chronic insomnia", pha: 1}
 
   - so: 4
     slug: tho
@@ -79,7 +79,7 @@ phan:
       - {slug: dau-thi, ten: "Tuổi dậy thì", ten_en: "Puberty", pha: 2}
       - {slug: cang-thang, ten: "Căng thẳng", ten_en: "Stress", pha: 1}
       - {slug: man-kinh, ten: "Mãn kinh", ten_en: "Menopause", pha: 1}
-      - {slug: man-duc, ten: "Mãn dục nam", ten_en: "Andropause", pha: 2, rui_ro: true}
+      - {slug: man-duc, ten: "Mãn dục nam", ten_en: "Andropause", pha: 2}
       - {slug: lao-hoa, ten: "Lão hóa khỏe", ten_en: "Healthy ageing", pha: 2}
 
   - so: 7

@@ -87,7 +87,8 @@ These articles are written for adults in general. Older adults should read the "
 
 - **Eating:** [The plate and the food pyramid](/en/eating/plate-and-pyramid/) · [Salt](/en/eating/salt/) · [Free sugars](/en/eating/free-sugars/) · [Protein](/en/eating/protein/) · [Drinking water](/en/eating/water/) · [Alcohol](/en/eating/alcohol/) · [Myth: eating less salt just means less table salt](/en/myths/less-salt/)
 - **Movement:** [Strength and balance](/en/movement/strength-balance/) · [Sitting less](/en/movement/sitting-less/)
-- **Sleep, breathing, meditation:** [How much sleep](/en/sleep/how-much-sleep/) · [Sleep habits](/en/sleep/sleep-habits/) · [Five minutes of slow breathing](/en/breathing/slow-breathing/) · [Ten minutes of breath awareness](/en/meditation/ten-minute-breath-awareness/)
+- **Sleep, breathing, meditation:** [How much sleep](/en/sleep/how-much-sleep/) · [Sleep habits](/en/sleep/sleep-habits/) · [Five minutes of slow breathing](/en/breathing/slow-breathing/) · [Ten minutes of breath awareness](/en/meditation/ten-minute-breath-awareness/) · [Signs of chronic insomnia](/en/sleep/chronic-insomnia/)
+- **Life stages:** [Healthy ageing](/en/life-stages/healthy-ageing/) · [The "male menopause"](/en/life-stages/andropause/) · [Stress](/en/life-stages/stress/)
 - **Reading health information:** [Reading evidence](/en/start-here/reading-evidence/) · [Myth: juice detox](/en/myths/juice-detox/)
 
 ## Who should take care

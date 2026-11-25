@@ -61,6 +61,8 @@ Tháp ghi thêm: **hoạt động thể lực ít nhất 60 phút mỗi ngày**.
 4. **Giờ ngủ đều, đủ 9–11 giờ.** Không để thiết bị trong phòng ngủ. [Đã xác nhận – Úc]
 5. **Hộp cơm, bữa phụ ít mặn, ít ngọt:** nước lọc thay nước ngọt, quả thay bánh kẹo. Xem [Đường tự do](/an-uong/duong-tu-do/), [Muối](/an-uong/muoi/). [Đã xác nhận]
 
+**Dậy thì:** mốc tuổi, dấu hiệu sớm – muộn, cách nói chuyện với con: xem [Tuổi dậy thì](/tam-sinh-ly/dau-thi/).
+
 ## Hiểu lầm hay gặp
 
 - **"Giờ thể dục ở trường là đủ."** Các chuẩn khuyên trung bình 60 phút mỗi ngày, cả 7 ngày; giờ thể dục chỉ là một phần. [Đã xác nhận]

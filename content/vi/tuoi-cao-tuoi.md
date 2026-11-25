@@ -84,7 +84,8 @@ Các bài dưới viết cho người lớn nói chung. Người cao tuổi đ�
 
 - **Ăn uống:** [Đĩa ăn và tháp dinh dưỡng](/an-uong/dia-an/) · [Muối](/an-uong/muoi/) · [Đường tự do](/an-uong/duong-tu-do/) · [Chất đạm](/an-uong/dam/) · [Uống nước](/an-uong/nuoc/) · [Rượu bia](/an-uong/ruou-bia/) · [Ngộ nhận: ăn nhạt chỉ là bớt muối hạt](/hieu-dung/ngo-nhan-muoi/)
 - **Vận động:** [Sức mạnh và thăng bằng](/van-dong/suc-manh-thang-bang/) · [Ngồi lâu](/van-dong/ngoi-lau/)
-- **Ngủ, thở, thiền:** [Giờ ngủ](/ngu-nghi/gio-ngu/) · [Thói quen giúp ngủ](/ngu-nghi/ve-sinh-giac-ngu/) · [Thở chậm 5 phút](/tho/tho-cham/) · [Chánh niệm hơi thở 10 phút](/thien/thien-10-phut/)
+- **Ngủ, thở, thiền:** [Giờ ngủ](/ngu-nghi/gio-ngu/) · [Thói quen giúp ngủ](/ngu-nghi/ve-sinh-giac-ngu/) · [Thở chậm 5 phút](/tho/tho-cham/) · [Chánh niệm hơi thở 10 phút](/thien/thien-10-phut/) · [Dấu hiệu mất ngủ mạn tính](/ngu-nghi/mat-ngu-man-tinh/)
+- **Tâm sinh lý:** [Lão hóa khỏe](/tam-sinh-ly/lao-hoa/) · [Mãn dục nam](/tam-sinh-ly/man-duc/) · [Căng thẳng](/tam-sinh-ly/cang-thang/)
 - **Đọc thông tin sức khỏe:** [Đọc bằng chứng](/bat-dau/doc-bang-chung/) · [Ngộ nhận: detox bằng nước ép](/hieu-dung/ngo-nhan-detox/)
 
 ## Ai cần thận trọng

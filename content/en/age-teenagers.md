@@ -65,6 +65,8 @@ Both pyramids also say: **physical activity at least 60 minutes a day**. Dairy (
 5. **No alcohol** (illegal under 18 in Vietnam). See [Alcohol](/en/eating/alcohol/). [Verified]
 6. **Eat full meals, with dairy and protein:** the pyramids for this age call for 6 units of dairy a day. [Verified]
 
+**Puberty:** ages, early and late signs, talking with your child: see [Puberty](/en/life-stages/puberty/).
+
 ## Common misconceptions
 
 - **"Teens stay up late, 6 hours of sleep is enough."** AASM and Australia advise 8–10 hours at this age. [Verified]

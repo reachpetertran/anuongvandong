@@ -71,7 +71,7 @@ Lưu ý: Úc chấp nhận ngủ trưa ngắn; NHS khuyên **người đang mấ
 
 ## Khi nào gặp nhân viên y tế
 
-- Khó ngủ nhiều đêm và kéo dài; NHS gọi mất ngủ từ **3 tháng trở lên** là mất ngủ dài hạn. Đã đổi thói quen mà không đỡ thì nên đi khám. [Đã xác nhận]
+- Khó ngủ nhiều đêm và kéo dài; NHS gọi mất ngủ từ **3 tháng trở lên** là mất ngủ dài hạn. Đã đổi thói quen mà không đỡ thì nên đi khám. Xem [Dấu hiệu mất ngủ mạn tính](/ngu-nghi/mat-ngu-man-tinh/). [Đã xác nhận]
 - Buồn ngủ ban ngày nhiều, ảnh hưởng công việc, lái xe. [Đánh giá chuyên môn]
 - Ngáy to, người nhà thấy ngừng thở khi ngủ. [Đánh giá chuyên môn]
 - Khó ngủ đi kèm buồn chán, lo âu kéo dài. [Đánh giá chuyên môn]

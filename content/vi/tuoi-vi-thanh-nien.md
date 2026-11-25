@@ -62,6 +62,8 @@ Cả hai tháp ghi thêm: **hoạt động thể lực ít nhất 60 phút mỗi
 5. **Không rượu bia** (luật cấm người dưới 18 tuổi). Xem [Rượu bia](/an-uong/ruou-bia/). [Đã xác nhận]
 6. **Ăn đủ bữa, có sữa và đạm:** tháp tuổi này cần 6 đơn vị sữa mỗi ngày. [Đã xác nhận]
 
+**Dậy thì:** mốc tuổi, dấu hiệu sớm – muộn, cách nói chuyện với con: xem [Tuổi dậy thì](/tam-sinh-ly/dau-thi/).
+
 ## Hiểu lầm hay gặp
 
 - **"Tuổi teen thức khuya là bình thường, ngủ 6 tiếng là đủ."** AASM và Úc khuyên 8–10 giờ cho tuổi này. [Đã xác nhận]

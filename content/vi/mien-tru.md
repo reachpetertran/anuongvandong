@@ -8,7 +8,7 @@ short: "Nội dung giáo dục, không thay lời khuyên y tế cá nhân."
 ---
 
 - anuongvandong.com là **nội dung giáo dục**. Site không chẩn đoán, không điều trị, không tư vấn cho từng người.
-- Nội dung **chưa được chuyên gia y tế đọc duyệt**. Các trang về mang thai, cho con bú, trẻ dưới 2 tuổi và mãn kinh được đăng theo quyết định của tác giả, dù chưa có người có chuyên môn đọc duyệt: các trang này chỉ tóm tắt hướng dẫn chính thức, không đưa liều thuốc, liều vi chất, và không thay cho khám thai, khám trẻ. Các chủ đề rủi ro cao khác (người có bệnh, thực phẩm chức năng, sức khỏe tâm thần…) chỉ được đăng khi có người có chuyên môn đọc duyệt.
+- Nội dung **chưa được chuyên gia y tế đọc duyệt**. Các trang về mang thai, cho con bú, trẻ dưới 2 tuổi, mãn kinh, mãn dục nam và mất ngủ mạn tính được đăng theo quyết định của tác giả, dù chưa có người có chuyên môn đọc duyệt: các trang này chỉ tóm tắt hướng dẫn chính thức, không đưa liều thuốc, liều vi chất, và không thay cho khám thai, khám trẻ. Các chủ đề rủi ro cao khác (người có bệnh, thực phẩm chức năng, sức khỏe tâm thần…) chỉ được đăng khi có người có chuyên môn đọc duyệt.
 - Khuyến nghị và số liệu có thể thay đổi. Mỗi bài ghi **ngày kiểm tra** và **hạn kiểm tra lại**. Hãy xem ngày đó trước khi dùng.
 - Nếu bạn có bệnh, đang dùng thuốc, đang mang thai hoặc cho con bú: hỏi nhân viên y tế trước khi đổi cách ăn, cách tập.
 - Site không nhận quảng cáo, tài trợ hay hoa hồng bán hàng. Tên sản phẩm, thương hiệu không xuất hiện trong bài.

@@ -64,6 +64,8 @@ The pyramid also says: **physical activity at least 60 minutes a day**. The site
 4. **Regular sleep times, 9–11 hours.** Keep devices out of the bedroom. [Verified – Australia]
 5. **Lunchboxes and snacks low in salt and sugar:** water instead of sugary drinks, fruit instead of sweets. See [Free sugars](/en/eating/free-sugars/), [Salt](/en/eating/salt/). [Verified]
 
+**Puberty:** ages, early and late signs, talking with your child: see [Puberty](/en/life-stages/puberty/).
+
 ## Common misconceptions
 
 - **"PE at school is enough."** The standards advise an average of 60 minutes every day, all 7 days; PE is only part of it. [Verified]

@@ -74,7 +74,7 @@ Note: Australia accepts short naps; the NHS advises **people with insomnia** not
 
 ## When to see a health worker
 
-- Trouble sleeping on many nights that goes on; the NHS calls insomnia lasting **3 months or longer** long-term insomnia. If changing habits has not helped, get checked. [Verified]
+- Trouble sleeping on many nights that goes on; the NHS calls insomnia lasting **3 months or longer** long-term insomnia. If changing habits has not helped, get checked. See [Signs of chronic insomnia](/en/sleep/chronic-insomnia/). [Verified]
 - Heavy daytime sleepiness affecting work or driving. [Expert judgement]
 - Loud snoring, or someone notices you stop breathing during sleep. [Expert judgement]
 - Poor sleep together with lasting low mood or anxiety. [Expert judgement]
