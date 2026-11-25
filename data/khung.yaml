@@ -27,6 +27,7 @@ phan:
       - {slug: ruou-bia, ten: "Rượu bia", ten_en: "Alcohol", pha: 1}
       - {slug: nuoc, ten: "Uống nước", ten_en: "Drinking water", pha: 1}
       - {slug: dam, ten: "Chất đạm: các chuẩn nói khác nhau thế nào", ten_en: "Protein: how the standards differ", pha: 1}
+      - {slug: caffeine, ten: "Caffeine: cà phê, trà, nước tăng lực", ten_en: "Caffeine: coffee, tea, energy drinks", pha: 1}
 
   - so: 2
     slug: van-dong

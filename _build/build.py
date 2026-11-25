@@ -218,22 +218,65 @@ def trang(out, path, title, desc, body, lang='vi', alt=None, current=None, previ
         f.write(doc)
 
 
+TUOI_URL = {}  # (lang, ma tuổi) -> url trang nhóm tuổi đã đăng
+
+
 def the_bai(b):
     m = b.meta
     en = b.lang == 'en'
+    if b.loai == 'tuoi':
+        return (f'<div class="lesson-meta"><span>{"Checked" if en else "Kiểm tra"}: {html.escape(str(m.get("checked")))}'
+                f'</span><span>{"Author" if en else "Tác giả"}: Peter Tran</span></div>'
+                + ('<div class="box warn small"><p>Educational content, not yet reviewed by a health professional.</p></div>'
+                   if en else '<div class="box warn small"><p>Nội dung giáo dục, chưa được chuyên gia y tế đọc duyệt.'
+                   '</p></div>'))
     if b.loai != 'bai':
         return ''
     nhan = [('Checked' if en else 'Kiểm tra'), str(m.get('checked')),
             ('Evidence' if en else 'Mức bằng chứng'), str(m.get('evidence_level'))]
-    tuoi = ', '.join(m.get('age_groups') or [])
+    tuoi = ', '.join(
+        (f'<a href="{TUOI_URL[(b.lang, str(a))]}">{html.escape(str(a))}</a>' if (b.lang, str(a)) in TUOI_URL
+         else html.escape(str(a))) for a in (m.get('age_groups') or []))
     return (f'<div class="lesson-meta"><span>{nhan[0]}: {html.escape(nhan[1])}</span>'
             f'<span>{nhan[2]}: {html.escape(nhan[3])}</span>'
-            f'<span>{"Ages" if en else "Tuổi"}: {html.escape(tuoi)}</span>'
+            f'<span>{"Ages" if en else "Tuổi"}: {tuoi}</span>'
             f'<span>{"Author" if en else "Tác giả"}: Peter Tran</span></div>'
             + ('<div class="box warn small"><p>Educational content, not yet reviewed by a health professional. '
                'It does not replace advice from a doctor who knows your health.</p></div>' if en else
                '<div class="box warn small"><p>Nội dung giáo dục, chưa được chuyên gia y tế đọc duyệt. '
                'Bài không thay lời khuyên của bác sĩ biết rõ sức khỏe của bạn.</p></div>'))
+
+
+THU_TU_TRU = [('an-uong', 'Ăn uống', 'Eating'), ('van-dong', 'Vận động', 'Movement'),
+              ('ngu-nghi', 'Ngủ và nghỉ', 'Sleep and rest'), ('tho', 'Thở', 'Breathing'),
+              ('thien', 'Thiền chánh niệm', 'Mindfulness meditation'), ('phuong-phap', 'Phương pháp tối giản', 'Minimal methods')]
+
+
+def bai_theo_tru(trang_tuoi, ma, dang):
+    """Danh sách bài (cùng ngôn ngữ) có age_groups chứa mã tuổi, chia theo trụ."""
+    en = trang_tuoi.lang == 'en'
+    out = ''
+    for tru, ten, ten_en in THU_TU_TRU:
+        ds = []
+        for b in dang:
+            if b.lang != trang_tuoi.lang or b.loai != 'bai':
+                continue
+            goc = b if b.lang == 'vi' else b.cap
+            if not goc or goc.meta.get('pillar') != tru:
+                continue
+            if ma not in [str(a) for a in (b.meta.get('age_groups') or [])]:
+                continue
+            ds.append(b)
+        if not ds:
+            continue
+        ds.sort(key=lambda x: x.meta.get('order', 999))
+        the = ''.join(
+            f'<a class="card" href="{b.url}"><h3>{html.escape(b.title)}</h3>'
+            f'<p class="small">{html.escape(str(b.meta.get("short", "")))}</p>'
+            + ('' if b.published else f'<span class="tag soon">{"draft" if en else "nháp"}</span>') + '</a>'
+            for b in ds)
+        out += f'<h3 class="tru">{html.escape(ten_en if en else ten)}</h3><div class="grid">{the}</div>'
+    return out or ('<p>No articles yet.</p>' if en else '<p>Chưa có bài.</p>')
 
 
 def build(out, preview):
@@ -262,9 +305,21 @@ def build(out, preview):
     for b in dang:
         if b.cap and (b.cap in dang):
             alt[b.url] = b.cap.url
+    tuoi_ds = yaml.safe_load(open(os.path.join(GOC, 'data', 'tuoi.yaml'), encoding='utf-8'))['nhom']
+    tuoi_ma = {t['slug']: str(t.get('ma', '')) for t in tuoi_ds}
+    TUOI_URL.clear()
+    for b in dang:
+        if b.loai == 'tuoi' and b.published:
+            vi_slug = b.slug if b.lang == 'vi' else b.meta.get('pair')
+            if tuoi_ma.get(vi_slug):
+                TUOI_URL[(b.lang, tuoi_ma[vi_slug])] = b.url
     da_co = set()
     for b in dang:
-        body = (f'<article class="lesson"><h1>{html.escape(b.title)}</h1>{the_bai(b)}{md_html(b.md)}</article>')
+        noi_dung = md_html(b.md)
+        if b.loai == 'tuoi':
+            vi_slug = b.slug if b.lang == 'vi' else b.meta.get('pair')
+            noi_dung = noi_dung.replace('<p>{{BAI_THEO_TRU}}</p>', bai_theo_tru(b, tuoi_ma.get(vi_slug), dang))
+        body = (f'<article class="lesson"><h1>{html.escape(b.title)}</h1>{the_bai(b)}{noi_dung}</article>')
         trang(out, b.url, b.title, str(b.meta.get('short', b.title)), body, b.lang, alt.get(b.url),
               preview=preview, nhap=not b.published)
         da_co.add(b.url)
@@ -305,7 +360,12 @@ def build(out, preview):
             moc = t.get('moc_en' if en else 'moc') or '–'
             pha = ('Phase ' if en else 'Pha ') + str(t['pha'])
             ghi = (' · high-risk: drafts only' if en else ' · rủi ro cao: chỉ để nháp') if t.get('rui_ro') else ''
-            rows += (f'<tr><th scope="row">{html.escape(t["ten_en"] if en else t["ten"])}</th>'
+            ten = html.escape(t["ten_en"] if en else t["ten"])
+            u = TUOI_URL.get((lang, str(t.get('ma', ''))))
+            if u:
+                ten = f'<a href="{u}">{ten}</a>'
+                pha = 'Articles available' if en else 'Đã có bài'
+            rows += (f'<tr><th scope="row">{ten}</th>'
                      f'<td>{html.escape(moc)}</td><td>{pha}{ghi}</td></tr>')
         hd = ('<th>Group</th><th>Ages</th><th>Status</th>' if en else '<th>Nhóm</th><th>Tuổi</th><th>Trạng thái</th>')
         return f'<div class="table-wrap"><table><thead><tr>{hd}</tr></thead><tbody>{rows}</tbody></table></div>'
@@ -340,6 +400,7 @@ def build(out, preview):
         '<p class="lead">Ăn uống, vận động, giấc ngủ, thở và thiền theo từng độ tuổi. Mỗi con số có nguồn, '
         'phiên bản và ngày kiểm tra. Khi các chuẩn WHO, Việt Nam, Mỹ, Úc, Anh nói khác nhau, site đặt chúng '
         'cạnh nhau.</p><div class="cta"><a class="btn primary" href="/khung-chuong-trinh/">Xem khung chương trình</a>'
+        + (f'<a class="btn" href="{TUOI_URL[("vi", "18-39")]}">Theo tuổi: 18–39</a>' if ('vi', '18-39') in TUOI_URL else '')
         + (f'<a class="btn" href="{mau.url}">Đọc bài mẫu: Muối</a>' if mau else '') +
         '</div></div><img src="/assets/logo/anuongvandong-logo.svg" alt="Logo Ăn Uống Vận Động" width="260" '
         'height="278"></section>'
@@ -355,6 +416,7 @@ def build(out, preview):
         'group. Every figure comes with its source, version and check date. Where WHO, Vietnam, the US, Australia '
         'and the UK disagree, the site shows them side by side.</p><div class="cta"><a class="btn primary" '
         'href="/en/curriculum/">See the curriculum</a>'
+        + (f'<a class="btn" href="{TUOI_URL[("en", "18-39")]}">By age: 18–39</a>' if ('en', '18-39') in TUOI_URL else '')
         + (f'<a class="btn" href="{mau_en.url}">Sample article: Salt</a>' if mau_en else '') +
         '</div></div><img src="/assets/logo/anuongvandong-logo.svg" alt="Ăn Uống Vận Động logo" width="260" '
         'height="278"></section>'
