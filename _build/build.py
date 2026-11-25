@@ -249,7 +249,9 @@ def the_bai(b):
 
 THU_TU_TRU = [('an-uong', 'Ăn uống', 'Eating'), ('van-dong', 'Vận động', 'Movement'),
               ('ngu-nghi', 'Ngủ và nghỉ', 'Sleep and rest'), ('tho', 'Thở', 'Breathing'),
-              ('thien', 'Thiền chánh niệm', 'Mindfulness meditation'), ('phuong-phap', 'Phương pháp tối giản', 'Minimal methods')]
+              ('thien', 'Thiền chánh niệm', 'Mindfulness meditation'), ('tam-sinh-ly', 'Tâm sinh lý theo giai đoạn đời', 'Body and mind through life stages'),
+              ('phuong-phap', 'Phương pháp tối giản', 'Minimal methods'), ('hieu-dung', 'Hiểu đúng – Ngộ nhận', 'Myths and facts'),
+              ('bat-dau', 'Bắt đầu ở đây', 'Start here')]
 
 
 def bai_theo_tru(trang_tuoi, ma, dang):

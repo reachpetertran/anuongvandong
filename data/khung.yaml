@@ -78,7 +78,8 @@ phan:
     bai:
       - {slug: dau-thi, ten: "Tuổi dậy thì", ten_en: "Puberty", pha: 2}
       - {slug: cang-thang, ten: "Căng thẳng", ten_en: "Stress", pha: 1}
-      - {slug: man-kinh, ten: "Mãn kinh, mãn dục", ten_en: "Menopause and andropause", pha: 2, rui_ro: true}
+      - {slug: man-kinh, ten: "Mãn kinh", ten_en: "Menopause", pha: 1}
+      - {slug: man-duc, ten: "Mãn dục nam", ten_en: "Andropause", pha: 2, rui_ro: true}
       - {slug: lao-hoa, ten: "Lão hóa khỏe", ten_en: "Healthy ageing", pha: 2}
 
   - so: 7
