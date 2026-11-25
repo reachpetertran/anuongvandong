@@ -74,7 +74,7 @@ Tháp ghi thêm: **hoạt động thể lực ít nhất 60 phút mỗi ngày**.
 
 - Trẻ có bệnh tim, hen, động kinh, khuyết tật vận động hoặc đang điều trị bệnh: hỏi bác sĩ về mức vận động phù hợp. [Đánh giá chuyên môn]
 - Trẻ dị ứng thức ăn, thiếu cân, thừa cân, biếng ăn kéo dài: chế độ ăn cần nhân viên y tế hướng dẫn riêng. Site không đưa lời khuyên giảm cân cho trẻ. [Đánh giá chuyên môn]
-- Trẻ dưới 3 tuổi: site chưa đăng trang riêng; nhóm dưới 2 tuổi là chủ đề rủi ro cao. [Đã xác nhận]
+- Trẻ dưới 3 tuổi: xem [Nhũ nhi](/tuoi/nhu-nhi/), [Ăn dặm](/tuoi/an-dam/), [Trẻ nhỏ 1–2 tuổi](/tuoi/tre-nho/).
 
 ## Khi nào gặp nhân viên y tế
 

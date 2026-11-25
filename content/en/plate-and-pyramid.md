@@ -67,7 +67,7 @@ Why the portion numbers differ: each country defines "a serving" differently (Vi
 
 ## Who should take care
 
-- Older adults, pregnant and breastfeeding women, children: use your own group's pyramid (same Decision 640/QĐ-VDD set). The site has not yet summarised those pyramids. [Verified]
+- Older adults, pregnant and breastfeeding women, children: use your own group's pyramid (same Decision 640/QĐ-VDD set). The site has tables for each group on the [By age](/en/by-age/) pages, for example [Pregnancy and breastfeeding](/en/age/pregnancy-breastfeeding/). [Verified]
 - People with diabetes, kidney, liver or heart disease, gout, or on a diet prescribed by a doctor: follow your doctor, not this general table. [Expert judgement]
 - People with a history of eating disorders: counting food units may not suit you; have professional support. [Expert judgement]
 

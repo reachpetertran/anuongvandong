@@ -49,7 +49,7 @@ These bands come from the published articles; each article gives its own sources
 
 **Alcohol.** WHO: there is no safe level of drinking. Vietnamese law bans driving with any alcohol in the blood or breath. [Verified] See [Alcohol](/en/eating/alcohol/).
 
-**Planning a baby.** Nutrition before and during pregnancy is a high-risk topic; the site has not published on it. If you are planning a pregnancy, talk to a health worker first. [Expert judgement]
+**Planning a baby.** WHO advises starting folic acid as early as possible, ideally before conception. See [Pregnancy and breastfeeding](/en/age/pregnancy-breastfeeding/). If you are planning a pregnancy, talk to a health worker first. [Verified for the WHO advice]
 
 ## All articles for ages 18–39
 

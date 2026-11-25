@@ -67,7 +67,7 @@ Cà phê phin, trà sữa kiểu Việt Nam: **chưa xác minh được** số �
 
 ## Ai cần thận trọng
 
-- **Mang thai, định có thai, cho con bú:** có mức riêng thấp hơn (EFSA, NHS: tối đa 200 mg/ngày). FDA khuyên hỏi nhân viên y tế. Site chưa đăng bài riêng cho nhóm này. [Đã xác nhận]
+- **Mang thai, định có thai, cho con bú:** có mức riêng thấp hơn (EFSA, NHS: tối đa 200 mg/ngày). FDA khuyên hỏi nhân viên y tế. Xem [Mang thai và cho con bú](/tuoi/mang-thai-cho-bu/). [Đã xác nhận]
 - **Dưới 18 tuổi:** EFSA đề xuất mức 3 mg/kg/ngày. Viện Hàn lâm Nhi khoa Mỹ (AAP) khuyên trẻ em, thiếu niên không dùng nước tăng lực. Bài này không áp dụng cho trẻ em. [Đã xác nhận]
 - **Người hay hồi hộp, lo âu, mất ngủ, tăng huyết áp, bệnh tim, hoặc đang dùng thuốc:** FDA ghi mức "quá nhiều" khác nhau tùy bệnh và thuốc. Hỏi bác sĩ, dược sĩ. [Đã xác nhận]
 - **Người dùng viên, bột tập gym có caffeine:** cộng cả lượng này với cà phê, trà trong ngày (FSA). [Đã xác nhận]

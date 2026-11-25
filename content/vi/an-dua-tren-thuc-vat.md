@@ -49,7 +49,7 @@ Các chuẩn thống nhất: ăn nhiều thực vật là tốt, nhưng **càng 
 
 ## Ai cần thận trọng
 
-- **Trẻ em, người mang thai, cho con bú:** Úc, NHS, AND đều lưu ý cần chăm sóc đặc biệt. Hỏi chuyên gia dinh dưỡng trước khi cho trẻ ăn thuần chay hoặc ăn thuần chay khi mang thai. Site chưa đăng bài cho nhóm này. [Đã xác nhận]
+- **Trẻ em, người mang thai, cho con bú:** Úc, NHS, AND đều lưu ý cần chăm sóc đặc biệt. Hỏi chuyên gia dinh dưỡng trước khi cho trẻ ăn thuần chay hoặc ăn thuần chay khi mang thai. Xem thêm các trang [Theo tuổi](/theo-tuoi/). [Đã xác nhận]
 - **Người cao tuổi, người đang sụt cân, thiếu máu, bệnh thận, đái tháo đường dùng thuốc:** đổi chế độ ăn lớn cần hỏi nhân viên y tế. [Đánh giá chuyên môn]
 - **Người có tiền sử rối loạn ăn uống:** việc cắt bỏ nhiều nhóm thực phẩm có thể không phù hợp; nên có người đồng hành chuyên môn. [Đánh giá chuyên môn]
 

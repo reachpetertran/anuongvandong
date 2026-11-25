@@ -77,7 +77,7 @@ The pyramid also says: **physical activity at least 60 minutes a day**. The site
 
 - Children with heart disease, asthma, epilepsy, a physical disability or under treatment: ask a doctor about suitable activity. [Expert judgement]
 - Children with food allergies, underweight or overweight, or long-term poor appetite: diet needs individual advice from a health worker. The site gives no weight-loss advice for children. [Expert judgement]
-- Children under 3: no separate page yet; the under-2 group is a high-risk topic. [Verified]
+- Children under 3: see [Young infants](/en/age/young-infants/), [Starting solids](/en/age/starting-solids/), [Toddlers 1–2](/en/age/toddlers/).
 
 ## When to see a health worker
 

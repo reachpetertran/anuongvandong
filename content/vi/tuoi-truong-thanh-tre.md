@@ -46,7 +46,7 @@ Các mốc trên lấy từ các bài đã đăng, mỗi bài ghi nguồn và ng
 
 **Rượu bia.** WHO: không có mức uống nào an toàn. Luật Việt Nam cấm lái xe khi có nồng độ cồn. [Đã xác nhận] Xem [Rượu bia](/an-uong/ruou-bia/).
 
-**Định có con.** Dinh dưỡng trước và trong khi mang thai là chủ đề rủi ro cao; site chưa đăng bài này. Nếu đang định có thai, hãy hỏi nhân viên y tế trước. [Đánh giá chuyên môn]
+**Định có con.** WHO khuyên bắt đầu axit folic càng sớm càng tốt, lý tưởng là trước khi có thai. Xem [Mang thai và cho con bú](/tuoi/mang-thai-cho-bu/). Nếu đang định có thai, hãy hỏi nhân viên y tế trước. [Đã xác nhận cho khuyến nghị WHO]
 
 ## Tất cả bài cho tuổi 18–39
 

@@ -1,9 +1,9 @@
 # Nhóm tuổi – [Suy luận] căn theo mốc của các hướng dẫn (2-CONTEXT.md mục 3). pha: 1 = đang viết, 2 = sau.
 nhom:
-  - {slug: mang-thai-cho-bu, ten: "Mang thai và cho con bú", ten_en: "Pregnancy and breastfeeding", moc: "", pha: 2, rui_ro: true}
-  - {slug: nhu-nhi, ten: "Nhũ nhi", ten_en: "Young infants", moc: "0 – dưới 6 tháng", moc_en: "0 – under 6 months", pha: 2, rui_ro: true}
-  - {slug: an-dam, ten: "Ăn dặm", ten_en: "Starting solids", moc: "6–11 tháng", moc_en: "6–11 months", pha: 2, rui_ro: true}
-  - {slug: tre-nho, ten: "Trẻ nhỏ", ten_en: "Toddlers", moc: "1–2 tuổi", moc_en: "1–2 years", pha: 2}
+  - {slug: mang-thai-cho-bu, slug_en: pregnancy-breastfeeding, ma: thai-bu, ten: "Mang thai và cho con bú", ten_en: "Pregnancy and breastfeeding", moc: "", pha: 2}
+  - {slug: nhu-nhi, slug_en: young-infants, ma: 0-5t, ten: "Nhũ nhi", ten_en: "Young infants", moc: "0 – dưới 6 tháng", moc_en: "0 – under 6 months", pha: 2}
+  - {slug: an-dam, slug_en: starting-solids, ma: 6-11t, ten: "Ăn dặm", ten_en: "Starting solids", moc: "6–11 tháng", moc_en: "6–11 months", pha: 2}
+  - {slug: tre-nho, slug_en: toddlers, ma: 1-2, ten: "Trẻ nhỏ", ten_en: "Toddlers", moc: "1–2 tuổi", moc_en: "1–2 years", pha: 2}
   - {slug: mam-non, slug_en: preschool, ma: 3-5, ten: "Mầm non", ten_en: "Preschool", moc: "3–5 tuổi", moc_en: "3–5 years", pha: 2}
   - {slug: tieu-hoc, slug_en: primary-school, ma: 6-11, ten: "Tiểu học", ten_en: "Primary school", moc: "6–11 tuổi", moc_en: "6–11 years", pha: 2}
   - {slug: vi-thanh-nien, slug_en: teenagers, ma: 12-17, ten: "Vị thành niên", ten_en: "Teenagers", moc: "12–17 tuổi", moc_en: "12–17 years", pha: 2}

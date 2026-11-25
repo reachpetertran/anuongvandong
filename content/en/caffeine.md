@@ -70,7 +70,7 @@ Vietnamese drip coffee (cà phê phin) and Vietnamese milk tea: **no official me
 
 ## Who should take care
 
-- **Pregnant, trying to become pregnant, breastfeeding:** a lower limit applies (EFSA, NHS: at most 200 mg a day). The FDA advises talking with a health worker. The site has no dedicated article for this group yet. [Verified]
+- **Pregnant, trying to become pregnant, breastfeeding:** a lower limit applies (EFSA, NHS: at most 200 mg a day). The FDA advises talking with a health worker. See [Pregnancy and breastfeeding](/en/age/pregnancy-breastfeeding/). [Verified]
 - **Under 18:** EFSA proposes 3 mg/kg body weight a day. The American Academy of Pediatrics (AAP) advises against energy drinks for children and teens. This article does not apply to children. [Verified]
 - **People prone to palpitations, anxiety, insomnia, high blood pressure, heart disease, or taking medicines:** the FDA notes that "too much" varies with medical conditions and medicines. Ask a doctor or pharmacist. [Verified]
 - **People using gym pills or powders with caffeine:** add these to your coffee and tea for the day (FSA). [Verified]

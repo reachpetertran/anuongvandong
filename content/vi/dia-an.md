@@ -64,7 +64,7 @@ Vì sao số khẩu phần lệch nhau: mỗi nước định nghĩa "1 khẩu p
 
 ## Ai cần thận trọng
 
-- Người cao tuổi, phụ nữ mang thai, cho con bú, trẻ em: dùng tháp riêng của nhóm mình (cùng bộ QĐ 640/QĐ-VDD). Site chưa đăng tóm tắt các tháp này. [Đã xác nhận]
+- Người cao tuổi, phụ nữ mang thai, cho con bú, trẻ em: dùng tháp riêng của nhóm mình (cùng bộ QĐ 640/QĐ-VDD). Site đã lập bảng cho từng nhóm trên các trang [Theo tuổi](/theo-tuoi/), ví dụ [Mang thai và cho con bú](/tuoi/mang-thai-cho-bu/). [Đã xác nhận]
 - Người có bệnh đái tháo đường, thận, gan, tim, gút, hoặc đang theo chế độ ăn do bác sĩ kê: theo chỉ dẫn của bác sĩ, không theo bảng chung. [Đánh giá chuyên môn]
 - Người có tiền sử rối loạn ăn uống: đếm đơn vị thực phẩm có thể không phù hợp; nên có người đồng hành chuyên môn. [Đánh giá chuyên môn]
 

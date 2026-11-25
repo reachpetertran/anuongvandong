@@ -52,7 +52,7 @@ The standards agree: more plants is good, but **the more animal food groups you 
 
 ## Who should take care
 
-- **Children, pregnant and breastfeeding women:** Australia, the NHS and AND all call for special care. See a dietitian before a vegan diet for a child or during pregnancy. The site has no article for these groups yet. [Verified]
+- **Children, pregnant and breastfeeding women:** Australia, the NHS and AND all call for special care. See a dietitian before a vegan diet for a child or during pregnancy. See also the [By age](/en/by-age/) pages. [Verified]
 - **Older adults, people losing weight, with anaemia, kidney disease, or diabetes on medication:** ask a health worker before a major diet change. [Expert judgement]
 - **People with a history of eating disorders:** cutting out several food groups may not suit you; have professional support. [Expert judgement]
 
