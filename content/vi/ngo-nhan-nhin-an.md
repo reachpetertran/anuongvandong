@@ -40,7 +40,7 @@ sources: [bmj-if-2025, cochrane-if-2026]
 
 ## Ai cần thận trọng
 
-Site chưa đăng bài hướng dẫn nhịn ăn gián đoạn vì danh sách "ai không nên" còn đang đối chiếu với hướng dẫn lâm sàng. Trong lúc chờ, các nhóm sau **không nên tự áp dụng** khi chưa hỏi nhân viên y tế: [Đánh giá chuyên môn]
+Danh sách chính thức của Healthdirect (Úc) có trong bài [Nhịn ăn gián đoạn](/phuong-phap/nhin-an-gian-doan/). Các nhóm sau **không nên tự áp dụng** khi chưa hỏi nhân viên y tế: [Đánh giá chuyên môn]
 
 - Dưới 18 tuổi; đang mang thai hoặc cho con bú.
 - Từng hoặc đang có rối loạn ăn uống.

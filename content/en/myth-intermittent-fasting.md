@@ -43,7 +43,7 @@ sources: [bmj-if-2025, cochrane-if-2026]
 
 ## Who should take care
 
-The site has not yet published a how-to article on intermittent fasting because its "who should not" list is still being checked against clinical guidelines. Meanwhile, these groups **should not try it on their own** without asking a health worker: [Expert judgement]
+Healthdirect's (Australia) official list is in [Intermittent fasting](/en/methods/intermittent-fasting/). These groups **should not try it on their own** without asking a health worker: [Expert judgement]
 
 - Under 18; pregnant or breastfeeding.
 - Past or current eating disorder.
