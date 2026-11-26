@@ -5,7 +5,7 @@ url: /en/eating/caffeine/
 order: 108
 status: published
 title: "Caffeine: coffee, tea, energy drinks"
-short: "Europe, the US and the UK use a reference of about 400 mg of caffeine a day for healthy adults. Australia sets no official safe level. No verified Vietnamese recommendation was found. How to count your intake and when to cut back."
+short: "Europe, the US and the UK use a reference of about 400 mg of caffeine a day for healthy adults. Australia sets no official safe level. Vietnam gives no mg figure for adults. How to count your intake and when to cut back."
 age_groups: [18-39, 40-64]
 pillar: eating
 evidence_level: "Moderate (EFSA risk assessment based on pooled studies, mostly observational)"
@@ -26,7 +26,7 @@ sources: [efsa-caffeine-2015, fda-caffeine-2024, fsanz-caffeine-2025, fsa-caffei
 
 | Standard | Healthy adults | Notes |
 |---|---|---|
-| Vietnam | No verified recommendation on caffeine intake for adults found | – |
+| Vietnam – Ministry of Health | Decision 1982/QĐ-BYT (1 Jul 2026): no mg figure for adults. Shift workers: avoid food and drinks with coffee near the end of a shift so sleep is not affected | Pregnancy: limit coffee. While nursing: no coffee (Decision 776, 2017) |
 | WHO | No recommendation on caffeine intake found | – |
 | Europe – EFSA (2015) | Up to **400 mg a day**, spread across the day, raises no safety concern | Single doses up to **200 mg** raise no concern. **100 mg** close to bedtime may affect sleep in some adults. |
 | US – FDA (updated 28 Aug 2024) | **400 mg a day** is not generally associated with negative effects | About 2–3 cups of coffee of 355 ml. Tolerance varies by person and by medicines taken. |
@@ -70,7 +70,7 @@ Vietnamese drip coffee (cà phê phin) and Vietnamese milk tea: **no official me
 
 ## Who should take care
 
-- **Pregnant, trying to become pregnant, breastfeeding:** a lower limit applies (EFSA, NHS: at most 200 mg a day). The FDA advises talking with a health worker. See [Pregnancy and breastfeeding](/en/age/pregnancy-breastfeeding/). [Verified]
+- **Pregnant, trying to become pregnant, breastfeeding:** a lower limit applies (EFSA, NHS: at most 200 mg a day). The FDA advises talking with a health worker. Vietnam's Ministry of Health: pregnant women should limit coffee. See [Pregnancy and breastfeeding](/en/age/pregnancy-breastfeeding/). [Verified]
 - **Under 18:** EFSA proposes 3 mg/kg body weight a day. The American Academy of Pediatrics (AAP) advises against energy drinks for children and teens. This article does not apply to children. [Verified]
 - **People prone to palpitations, anxiety, insomnia, high blood pressure, heart disease, or taking medicines:** the FDA notes that "too much" varies with medical conditions and medicines. Ask a doctor or pharmacist. [Verified]
 - **People using gym pills or powders with caffeine:** add these to your coffee and tea for the day (FSA). [Verified]
@@ -96,3 +96,4 @@ Checked on 25 November 2026.
 5. FSANZ. *Caffeine powders and high caffeine content foods* (P1054, 2019). <https://www.foodstandards.gov.au/consumer/prevention-of-foodborne-illness/caffeine-powders-and-high-caffeine-content-foods>
 6. Food Standards Agency (UK). *Food supplements containing caffeine*. <https://www.food.gov.uk/safety-hygiene/food-supplements-containing-caffeine>
 7. NHS. *Foods to avoid in pregnancy* – caffeine section (reviewed 15 Jun 2026). <https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/>
+8. Vietnam Ministry of Health. Decision 1982/QĐ-BYT of 1 Jul 2026, communication messages (pregnancy, shift workers); Decision 776/QĐ-BYT of 8 Mar 2017 (breastfeeding). Copies from Thư viện Pháp luật supplied by Peter, checked 26 Nov 2026.

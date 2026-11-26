@@ -58,9 +58,9 @@ QĐ 103 lưu ý: tránh tập khi trời quá nóng ẩm; uống đủ nước; 
 |---|---|
 | Anh – NHS (duyệt 15/06/2026) | Tránh: rượu; sữa và chế phẩm chưa tiệt trùng; thịt sống, tái; gan và sản phẩm từ gan (nhiều vitamin A); cá, hải sản sống; cá kiếm, cá mập, cá cờ. Hạn chế: caffeine tối đa 200 mg/ngày; cá béo tối đa 2 phần/tuần |
 | Rượu bia – Úc, Anh, Mỹ | Cả ba khuyên không uống khi mang thai. Úc khuyên không uống khi cho con bú. Xem [Rượu bia](/an-uong/ruou-bia/) |
-| Việt Nam | Chưa xác minh được danh sách chính thức |
+| Việt Nam – Bộ Y tế (QĐ 776/QĐ-BYT, 08/03/2017; QĐ 1982/QĐ-BYT, 01/07/2026) | Mang thai: tránh rượu, bia, thuốc lá; QĐ 776 khuyên không dùng đồ uống kích thích như cà phê, nước chè đặc, còn QĐ 1982 (mới hơn) ghi "hạn chế cà phê". Giảm ăn mặn, nhất là khi phù, tăng huyết áp. Không nên quá kiêng khem. Cho con bú: không uống rượu, bia, cà phê, không hút thuốc; hạn chế thức ăn nhiều gia vị |
 
-200 mg caffeine bằng khoảng 2 cốc cà phê hòa tan theo NHS. Xem thêm [Caffeine](/an-uong/caffeine/). [Đã xác nhận]
+Về caffeine, các chuẩn lệch nhau: Việt Nam khuyên hạn chế hoặc không dùng cà phê, không nêu số mg; NHS, EFSA đặt mức tối đa 200 mg/ngày, khoảng 2 cốc cà phê hòa tan theo NHS. Xem thêm [Caffeine](/an-uong/caffeine/). [Đã xác nhận]
 
 **Vi chất và khám thai** [Đã xác nhận]
 
@@ -68,7 +68,8 @@ QĐ 103 lưu ý: tránh tập khi trời quá nóng ẩm; uống đủ nước; 
 |---|---|
 | WHO – Chăm sóc trước sinh (2016) | Bổ sung sắt và axit folic hằng ngày trong thai kỳ để phòng thiếu máu, sinh nhẹ cân. Ít nhất 8 lần tiếp xúc với nhân viên y tế trong thai kỳ |
 | WHO – eLENA (cập nhật 26/07/2024) | Axit folic nên bắt đầu càng sớm càng tốt, lý tưởng là trước khi có thai |
-| Việt Nam | Chưa xác minh được văn bản về số lần khám thai và bổ sung vi chất |
+| Việt Nam – Bộ Y tế (QĐ 776/QĐ-BYT, 2017) | Bổ sung viên sắt/acid folic hằng ngày cho mọi phụ nữ có thai, suốt thai kỳ đến 1 tháng sau sinh; cấp từ lần khám thai đầu tiên. Thiếu máu thì dùng liều điều trị theo phác đồ |
+| Việt Nam – Luật Bảo hiểm xã hội 41/2024/QH15 (hiệu lực 01/07/2025), Điều 51 | Lao động nữ tham gia BHXH bắt buộc được nghỉ việc hưởng chế độ thai sản để đi khám thai **tối đa 5 lần**, mỗi lần không quá 2 ngày. Đây là quyền lợi nghỉ việc, không phải khuyến nghị y khoa về số lần khám. Site chưa xác minh được khuyến nghị số lần khám thai của Bộ Y tế |
 
 Liều và loại viên bổ sung: do nhân viên y tế chỉ định sau khi khám. Site không đưa liều. [Đánh giá chuyên môn]
 
@@ -77,7 +78,7 @@ Liều và loại viên bổ sung: do nhân viên y tế chỉ định sau khi k
 1. **Đi khám thai sớm** khi biết có thai, và khám đều theo lịch hẹn. [Đã xác nhận – WHO]
 2. **Ăn theo cột tháp của giai đoạn mình.** Không cần "ăn cho hai người" ngay từ đầu: 3 tháng đầu ngũ cốc 12 đơn vị, 3 tháng cuối 13,5. [Đã xác nhận]
 3. **Thức ăn nấu chín kỹ.** Tránh gỏi, tái, trứng sống, sữa chưa tiệt trùng. [Đã xác nhận – NHS]
-4. **Không rượu bia, không thuốc lá.** Caffeine dưới 200 mg/ngày. [Đã xác nhận]
+4. **Không rượu bia, không thuốc lá.** Hạn chế cà phê, trà đặc; nếu dùng, các chuẩn quốc tế đặt mức dưới 200 mg caffeine/ngày. [Đã xác nhận]
 5. **Đi bộ nhanh, bơi, yoga cho bà bầu** cộng dồn 150 phút/tuần, nếu bác sĩ không dặn hạn chế. Tập cơ sàn chậu hằng ngày. [Đã xác nhận – QĐ 103]
 6. **Khi cho con bú:** dùng cột "Cho con bú" của tháp; uống nước khoảng 11 cốc 200 ml mỗi ngày theo tháp. [Đã xác nhận]
 
@@ -116,3 +117,5 @@ Kiểm tra ngày 25/11/2026.
 6. NHS. *Foods to avoid in pregnancy* (duyệt 15/06/2026). <https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/>
 7. WHO. *WHO recommendations on antenatal care for a positive pregnancy experience* (2016). <https://www.who.int/publications/i/item/9789241549912>; tin WHO 07/11/2016: <https://www.who.int/news/item/07-11-2016-new-guidelines-on-antenatal-care-for-a-positive-pregnancy-experience>
 8. WHO eLENA. *Daily iron and folic acid supplementation during pregnancy* (cập nhật 26/07/2024). <https://www.who.int/tools/elena/interventions/daily-iron-pregnancy>
+9. Bộ Y tế. QĐ 776/QĐ-BYT ngày 08/03/2017, *Hướng dẫn quốc gia về dinh dưỡng cho phụ nữ có thai và bà mẹ cho con bú*; QĐ 1982/QĐ-BYT ngày 01/07/2026, phần thông điệp cho phụ nữ có thai, bà mẹ cho con bú. Văn bản Peter cung cấp từ Thư viện Pháp luật, đối chiếu 26/11/2026.
+10. Luật Bảo hiểm xã hội số 41/2024/QH15, Điều 51 (theo tóm tắt của LuatVietnam, Peter xác nhận 26/11/2026). <https://luatvietnam.vn/bao-hiem/quy-dinh-moi-ve-che-do-nghi-kham-thai-tu-ngay-01-7-2025-563-103219-article.html>

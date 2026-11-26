@@ -41,7 +41,7 @@ review_due: 2027-05-25
 
 | Chuẩn | Khuyến nghị |
 |---|---|
-| Việt Nam | Bộ Y tế: tiếp tục cho bú đến 24 tháng. Viện Dinh dưỡng chưa có tháp cho trẻ dưới 3 tuổi trong bộ 7 tháp 2025 |
+| Việt Nam – Bộ Y tế (QĐ 318/QĐ-BYT, 30/01/2026) | Tiếp tục bú mẹ đến 24 tháng hoặc lâu hơn. 12–23 tháng: 3 bữa chính và 2 bữa phụ mỗi ngày, mỗi bữa khoảng ¾ đến 1 bát con; mỗi bữa đủ 4 nhóm thực phẩm. Nước uống khoảng 250–350 ml/ngày, chưa tính sữa và nước trong thức ăn. Nêm nhạt, hạn chế đồ ngọt, đồ uống có đường, bánh kẹo, bim bim. Ăn tại bàn cùng gia đình, không ăn rong, không xem tivi, điện thoại khi ăn. Viện Dinh dưỡng chưa có tháp cho trẻ dưới 3 tuổi trong bộ 7 tháp 2025 |
 | WHO – Hướng dẫn ăn bổ sung (2023), 12–23 tháng | Tiếp tục bú mẹ. Thịt, cá hoặc trứng hằng ngày; rau quả hằng ngày; đậu, hạt thường xuyên. Không đồ nhiều đường, muối, chất béo chuyển hóa; không đồ uống có đường; không chất tạo ngọt; hạn chế nước ép 100%. Cho ăn đáp ứng |
 | Mỹ – DGA (12 tháng – 2 tuổi) | Có thể tiếp tục bú mẹ. Ngừng sữa công thức lúc 12 tháng, chuyển sang sữa nguyên kem hoặc sữa đậu nành tăng cường không đường. Không cần sữa dành cho trẻ tập đi (toddler milks). Tránh đồ uống có caffeine, có đường. Hạn chế đồ nhiều muối, chế biến sẵn |
 | Anh – NHS | Trẻ từ 4 tuổi trở xuống tránh đồ ăn uống thêm đường, chất tạo ngọt, kể cả mật ong, siro, nước ép, sinh tố. Không cho hạt nguyên hạt trước 5 tuổi |
@@ -50,6 +50,7 @@ review_due: 2027-05-25
 
 | Chuẩn | Khuyến nghị |
 |---|---|
+| Việt Nam – Bộ Y tế (QĐ 318/QĐ-BYT, 2026) | Từ 12 tháng có thể dùng thêm sữa động vật tươi tiệt trùng hoặc sữa bột nguyên kem; ưu tiên loại không thêm đường hoặc ít đường |
 | WHO (2023), 12–23 tháng | Dùng sữa động vật. Sữa công thức cho trẻ lớn (follow-up formula) không được khuyến nghị |
 | Mỹ – DGA, CDC | Sữa bò nguyên kem tiệt trùng, không đường, hoặc sữa đậu nành tăng cường không đường |
 
@@ -101,5 +102,5 @@ Kiểm tra ngày 25/11/2026.
 6. DGA 2025–2030. *Healthy Eating for Babies & Young Children (Birth to Age 2)*. <https://odphp.health.gov/sites/default/files/2026-10/dga-babies-children.pdf>
 7. CDC. *Foods and Drinks to Avoid or Limit*. <https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html>; *Cow's Milk and Milk Alternatives*: <https://www.cdc.gov/nutrition/infantandtoddlernutrition/foods-and-drinks/cows-milk-and-milk-alternatives.html>
 8. NHS. *Foods to avoid giving babies and young children* (duyệt 18/02/2026). <https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/>
-9. Văn bản triển khai Tuần lễ thế giới nuôi con bằng sữa mẹ 2026, nêu khuyến cáo của Bộ Y tế (cổng thông tin tỉnh Tuyên Quang, 07/2026). <https://khodulieu.sohoa.tuyenquang.gov.vn/congthongtin/media/5d8e2cc34c23121d38e592b6472bd835.pdf>
+9. Bộ Y tế. QĐ 318/QĐ-BYT ngày 30/01/2026, *Hướng dẫn ăn bổ sung cho trẻ em từ 6 tháng tuổi đến 23 tháng tuổi*, mục II.3, II.4, II.5. Văn bản Peter cung cấp từ Thư viện Pháp luật, đối chiếu 26/11/2026.
 10. Viện Dinh dưỡng. *Bộ 7 tháp dinh dưỡng cho các nhóm tuổi* (2025). <https://viendinhduong.vn/storage/app/uploads/public/2026/01/29/vdd_bo_7_thap_dinh_duong_cho_cac_nhom_tuoi_xuat_ban_2025.pdf>

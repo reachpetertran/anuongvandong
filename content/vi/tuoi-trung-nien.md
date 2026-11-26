@@ -49,7 +49,7 @@ Các mốc trên lấy từ các bài đã đăng, mỗi bài ghi nguồn và ng
 
 Sàng lọc là kiểm tra ở người **chưa có triệu chứng**. Các bảng dưới chỉ tóm tắt chương trình chung của từng nước, không phải lịch khám cho riêng bạn. Ô "chưa xác minh" là site chưa tìm được khuyến nghị chính thức. [Đã xác nhận]
 
-**Việt Nam: khám sức khỏe miễn phí hằng năm đang được áp dụng.** Theo Chỉ thị 17/CT-TTg (06/05/2026), từ năm 2026 người dân được khám sức khỏe định kỳ hoặc khám sàng lọc miễn phí ít nhất 1 lần mỗi năm. Bộ Y tế đã hướng dẫn nội dung khám ngày 12/05/2026. Người lớn được đo huyết áp, xét nghiệm máu, nước tiểu, chụp X-quang ngực; phụ nữ được khám phụ khoa, gồm sàng lọc ung thư cổ tử cung và ung thư vú. Hỏi trạm y tế xã, phường nơi bạn ở để biết lịch khám. [Đã xác nhận]
+**Việt Nam: khám sức khỏe miễn phí hằng năm đang được áp dụng.** Theo Chỉ thị 17/CT-TTg (06/05/2026), từ năm 2026 người dân được khám sức khỏe định kỳ hoặc khám sàng lọc miễn phí ít nhất 1 lần mỗi năm. [Đã xác nhận] Nội dung khám theo hướng dẫn chuyên môn hiện hành của Bộ Y tế; văn bản hướng dẫn đầu tiên (Công văn 3401/BYT-KCB, 12/05/2026) đã hết hiệu lực, site chưa cập nhật được danh mục khám mới. Hỏi trạm y tế xã, phường nơi bạn ở để biết lịch và nội dung khám.
 
 **Huyết áp, tim mạch, đường máu**
 
@@ -66,7 +66,7 @@ Sàng lọc là kiểm tra ở người **chưa có triệu chứng**. Các bả
 | Chuẩn | Khuyến nghị |
 |---|---|
 | WHO | chưa xác minh |
-| Việt Nam | HCDC TP.HCM (2025): **từ 50 tuổi**, xét nghiệm tìm máu ẩn trong phân, cho người khỏe, không có tiền sử gia đình ung thư (không ghi tần suất). Site chưa tìm được hướng dẫn sàng lọc quốc gia của Bộ Y tế |
+| Việt Nam | HCDC TP.HCM (2025): **từ 50 tuổi**, xét nghiệm tìm máu ẩn trong phân, cho người khỏe, không có tiền sử gia đình ung thư (không ghi tần suất). Hướng dẫn chẩn đoán và điều trị ung thư đại – trực tràng của Bộ Y tế (QĐ 2549/QĐ-BYT, 19/04/2018) không có lịch sàng lọc; site chưa tìm được hướng dẫn sàng lọc quốc gia |
 | Mỹ (USPSTF) | **45–75 tuổi** (2021) |
 | Úc | **45–74 tuổi, mỗi 2 năm**, xét nghiệm phân tại nhà miễn phí (hạ từ 50 xuống 45 tuổi ngày 01/07/2024) |
 | Anh (NHS, Anh quốc) | **50–74 tuổi, mỗi 2 năm** |
@@ -76,7 +76,7 @@ Sàng lọc là kiểm tra ở người **chưa có triệu chứng**. Các bả
 | Chuẩn | Khuyến nghị |
 |---|---|
 | WHO | chưa xác minh |
-| Việt Nam | Bộ Y tế (QĐ 3898/QĐ-BYT, 18/12/2025), phụ nữ nguy cơ trung bình: 25–39 tuổi tự khám vú hằng tháng, khám lâm sàng 1–3 năm/lần; **40–70 tuổi: mỗi năm** khám lâm sàng, chụp X-quang tuyến vú, thêm siêu âm nếu mô vú đặc. Nguy cơ cao: bắt đầu từ 25 tuổi. Có trong khám phụ khoa định kỳ miễn phí |
+| Việt Nam | Bộ Y tế (QĐ 3898/QĐ-BYT, 18/12/2025), phụ nữ nguy cơ trung bình: 25–39 tuổi tự khám vú hằng tháng, khám lâm sàng 1–3 năm/lần; **40–70 tuổi: mỗi năm** khám lâm sàng, chụp X-quang tuyến vú, thêm siêu âm nếu mô vú đặc. Nguy cơ cao: bắt đầu từ 25 tuổi. |
 | Mỹ (USPSTF) | **40–74 tuổi, mỗi 2 năm**, chụp nhũ ảnh (2024) |
 | Úc | Mời **50–74 tuổi, mỗi 2 năm**; từ 40 tuổi được chụp miễn phí |
 | Anh (NHS, Anh quốc) | **50 đến trước 71 tuổi, mỗi 3 năm** |
@@ -86,7 +86,7 @@ Sàng lọc là kiểm tra ở người **chưa có triệu chứng**. Các bả
 | Chuẩn | Khuyến nghị |
 |---|---|
 | WHO | Từ **30 tuổi**, xét nghiệm HPV DNA mỗi 5–10 năm; ưu tiên 30–49 tuổi (2021) |
-| Việt Nam | Bộ Y tế (QĐ 3792/QĐ-BYT, 17/12/2024): phụ nữ **21–65 tuổi** đã quan hệ tình dục, ưu tiên 30–49 tuổi; xét nghiệm HPV **mỗi 5 năm** (từ 25 tuổi) hoặc tế bào học, VIA/VILI **mỗi 3 năm** (từ 21 tuổi). Có trong khám phụ khoa định kỳ miễn phí |
+| Việt Nam | Bộ Y tế (QĐ 3792/QĐ-BYT, 17/12/2024): phụ nữ **21–65 tuổi** đã quan hệ tình dục, ưu tiên 30–49 tuổi; xét nghiệm HPV **mỗi 5 năm** (từ 25 tuổi) hoặc tế bào học, VIA/VILI **mỗi 3 năm** (từ 21 tuổi). |
 | Mỹ (USPSTF) | 30–65 tuổi: tế bào học mỗi 3 năm, hoặc HPV (đơn thuần hay phối hợp) mỗi 5 năm (2018, đang cập nhật) |
 | Úc | **25–74 tuổi, mỗi 5 năm** |
 | Anh (NHS, Anh quốc) | **25–64 tuổi, mỗi 5 năm** |
@@ -128,7 +128,7 @@ Kiểm tra ngày 25/11/2026. Nguồn của các bài được liên kết nằm 
 
 1. Bộ Y tế. Công văn số 3918/BYT-DP ngày 23/07/2020 về tăng cường truyền thông giảm muối và kiểm tra huyết áp (bản đăng trên cổng tỉnh Khánh Hòa). <https://khanhhoa.gov.vn/Resources/Docs/SubDomain/HomePage/Tuyentruyen/2020/3918-BYT.pdf>
 2. Cổng thông tin tỉnh Hà Tĩnh. *Chỉ thị của Thủ tướng về tổ chức khám sức khỏe định kỳ miễn phí cho người dân* (Chỉ thị 17/CT-TTg ngày 06/05/2026), đăng 07/05/2026. <https://hatinh.gov.vn/vi/bai-viet/chi-thi-cua-thu-tuong-ve-to-chuc-kham-suc-khoe-dinh-ky-mien-phi-cho-nguoi-dan>
-3. Báo Chính phủ. *Hướng dẫn danh mục khám sức khỏe định kỳ cho người dân* (12/05/2026). <https://baochinhphu.vn/huong-dan-danh-muc-kham-suc-khoe-dinh-ky-cho-nguoi-dan-102260512185958238.htm>
+3. Bộ Y tế. QĐ 2549/QĐ-BYT ngày 19/04/2018, *Hướng dẫn chẩn đoán và điều trị ung thư đại – trực tràng* (không có mục sàng lọc). Văn bản Peter cung cấp từ Thư viện Pháp luật, đối chiếu 26/11/2026.
 4. WHO. *New recommendations for screening and treatment to prevent cervical cancer* (06/07/2021). <https://www.who.int/news/item/06-07-2021-new-recommendations-for-screening-and-treatment-to-prevent-cervical-cancer>; PAHO, cùng ngày: <https://www.paho.org/en/news/6-7-2021-new-recommendations-screening-and-treatment-prevent-cervical-cancer>
 5. USPSTF. *Hypertension in Adults: Screening* (27/04/2021). <https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/hypertension-in-adults-screening>
 6. USPSTF. *Prediabetes and Type 2 Diabetes: Screening* (24/08/2021). <https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-for-prediabetes-and-type-2-diabetes>
@@ -146,5 +146,5 @@ Kiểm tra ngày 25/11/2026. Nguồn của các bài được liên kết nằm 
 18. NHS. *Cervical screening* (cập nhật 26/01/2026). <https://www.nhs.uk/conditions/cervical-screening/>
 19. NHS. *Osteoporosis – Causes* (xem lại 13/10/2022). <https://www.nhs.uk/conditions/osteoporosis/causes/>; *Prevention* (xem lại 29/10/2026): <https://www.nhs.uk/conditions/osteoporosis/prevention/>
 20. Bộ Y tế. *Hướng dẫn dự phòng và kiểm soát ung thư cổ tử cung*, ban hành kèm Quyết định 3792/QĐ-BYT ngày 17/12/2024, mục 5.1. <https://adminmoh.moh.gov.vn/documents/20182/0/3-HD+DP&KS+UTCTC-Final.pdf/e66acc1f-012a-4dcc-bbae-a29be596ea9e>
-21. Bộ Y tế. Quyết định 3898/QĐ-BYT ngày 18/12/2025 ban hành *Hướng dẫn sàng lọc phát hiện sớm ung thư vú*, mục IV Lịch sàng lọc (bản trên Thư viện Pháp luật). <https://cdn.thuvienphapluat.vn/uploads/DanLuat-BanAn/2025/2/685061.pdf>; số hiệu và ngày ban hành đối chiếu với Kế hoạch 156/KH-UBND tỉnh Bắc Ninh: <https://bacninh.gov.vn/documents/37632/112624304/156-KH-UBND.pdf>
+21. Bộ Y tế. Quyết định 3898/QĐ-BYT ngày 18/12/2025 ban hành *Hướng dẫn sàng lọc phát hiện sớm ung thư vú*, mục IV Lịch sàng lọc. Đã đối chiếu bản có số hiệu, ngày ban hành (Thư viện Pháp luật, Peter cung cấp 26/11/2026). <https://cdn.thuvienphapluat.vn/uploads/DanLuat-BanAn/2025/2/685061.pdf>
 22. HCDC – Trung tâm Kiểm soát bệnh tật TP.HCM. *03 loại ung thư có thể được phát hiện sớm qua sàng lọc* (cập nhật 05/03/2025). <https://hcdc.vn/03-loai-ung-thu-co-the-duoc-phat-hien-som-qua-sang-loc-rS4ufj.html>

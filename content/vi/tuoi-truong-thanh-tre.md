@@ -38,7 +38,7 @@ Các mốc trên lấy từ các bài đã đăng, mỗi bài ghi nguồn và ng
 
 ## Điểm riêng của tuổi 18–39
 
-**Xương còn đang "tích lũy".** Theo NIH (Mỹ), khối xương có thể tiếp tục tăng đến **khoảng 30 tuổi**, rồi đạt mức cao nhất (peak bone mass). Người trẻ vận động đều đặn thường đạt khối xương đỉnh cao hơn. (bản trang NIH 01/2012, lưu trữ) [Đã xác nhận] NHS khuyên tập chịu trọng lượng, tập sức mạnh, tập thăng bằng; không hút thuốc; không uống nhiều rượu. [Đã xác nhận] Xem [Sức mạnh và thăng bằng](/van-dong/suc-manh-thang-bang/).
+**Xương còn đang "tích lũy".** Theo NIH (Mỹ), khối xương có thể tiếp tục tăng đến **khoảng 30 tuổi**, rồi đạt mức cao nhất (peak bone mass). Người trẻ vận động đều đặn thường đạt khối xương đỉnh cao hơn. (bản lưu trữ: trang NIH 01/2012) [Đã xác nhận] NHS khuyên tập chịu trọng lượng, tập sức mạnh, tập thăng bằng; không hút thuốc; không uống nhiều rượu. [Đã xác nhận] Xem [Sức mạnh và thăng bằng](/van-dong/suc-manh-thang-bang/).
 
 **Ngủ.** AASM và SRS khuyên người lớn ngủ từ 7 giờ. Ngủ hơn 9 giờ có thể phù hợp với người trẻ hoặc người đang bù ngủ. [Đã xác nhận] Thức khuya học bài, làm thêm, lướt điện thoại hay làm lệch giờ ngủ. [Suy luận]
 

@@ -44,7 +44,7 @@ review_due: 2027-05-25
 
 | Standard | Recommendation |
 |---|---|
-| Vietnam | Ministry of Health: continue breastfeeding to 24 months. The NIN's 2025 set of 7 pyramids has no pyramid for children under 3 |
+| Vietnam – Ministry of Health (Decision 318/QĐ-BYT, 30 Jan 2026) | Continue breastfeeding to 24 months or longer. 12–23 months: 3 meals and 2 snacks a day, about ¾ to 1 small bowl per meal; each meal with all 4 food groups. Drinking water about 250–350 ml a day, not counting milk and water in food. Light seasoning; limit sweets, sugary drinks, cakes, crisps. Eat at the table with the family, no roaming meals, no TV or phone at meals. The NIN's 2025 set of 7 pyramids has no pyramid for children under 3 |
 | WHO – Complementary feeding guideline (2023), 12–23 months | Continue breastfeeding. Meat, fish or eggs daily; fruit and vegetables daily; pulses, nuts and seeds often. No foods high in sugar, salt or trans fats; no sugar-sweetened drinks; no non-sugar sweeteners; limit 100% juice. Responsive feeding |
 | US – DGA (12 months – 2 years) | Breastfeeding can continue. Stop infant formula at 12 months; switch to whole milk or unsweetened fortified soy milk. Toddler milks are not needed. Avoid drinks with caffeine or added sugar. Limit salty and processed foods |
 | UK – NHS | Children aged 4 or under should avoid food and drinks with added sugar or sweeteners, including honey, syrup, juice and smoothies. No whole nuts before age 5 |
@@ -53,6 +53,7 @@ review_due: 2027-05-25
 
 | Standard | Recommendation |
 |---|---|
+| Vietnam – Ministry of Health (Decision 318/QĐ-BYT, 2026) | From 12 months, pasteurised animal milk or full-fat milk powder can be added; choose no-added-sugar or low-sugar products |
 | WHO (2023), 12–23 months | Animal milk. Follow-up formula is not recommended |
 | US – DGA, CDC | Pasteurised, unsweetened whole cow's milk, or unsweetened fortified soy milk |
 
@@ -104,5 +105,5 @@ Checked 25 Nov 2026.
 6. DGA 2025–2030. *Healthy Eating for Babies & Young Children (Birth to Age 2)*. <https://odphp.health.gov/sites/default/files/2026-10/dga-babies-children.pdf>
 7. CDC. *Foods and Drinks to Avoid or Limit*. <https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html>; *Cow's Milk and Milk Alternatives*: <https://www.cdc.gov/nutrition/infantandtoddlernutrition/foods-and-drinks/cows-milk-and-milk-alternatives.html>
 8. NHS. *Foods to avoid giving babies and young children* (reviewed 18 Feb 2026). <https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/>
-9. Document implementing World Breastfeeding Week 2026, stating the Ministry of Health's advice (Tuyên Quang provincial portal, Jul 2026). <https://khodulieu.sohoa.tuyenquang.gov.vn/congthongtin/media/5d8e2cc34c23121d38e592b6472bd835.pdf>
+9. Vietnam Ministry of Health. Decision 318/QĐ-BYT of 30 Jan 2026, *Guidance on complementary feeding for children aged 6 to 23 months*, sections II.3, II.4, II.5. Copy from Thư viện Pháp luật supplied by Peter, checked 26 Nov 2026.
 10. National Institute of Nutrition (Vietnam). *Set of 7 food pyramids for age groups* (2025). <https://viendinhduong.vn/storage/app/uploads/public/2026/01/29/vdd_bo_7_thap_dinh_duong_cho_cac_nhom_tuoi_xuat_ban_2025.pdf>

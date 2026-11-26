@@ -32,7 +32,9 @@ sources: [nhs-insomnia-2024, icsd3-insomnia, aasm-cbti-2021, acp-insomnia-2016, 
 |---|---|
 | ICSD-3 (AASM) and DSM-5 | Trouble starting or staying asleep, at least 3 nights a week, for at least 3 months, despite enough opportunity to sleep; with at least one daytime effect: fatigue, poor concentration or memory, irritability, sleepiness, reduced performance at study or work. Under 3 months: short-term insomnia |
 | UK – NHS (reviewed 19 Mar 2024) | Insomnia lasting 3 months or longer is long-term; under 3 months is short-term |
-| Vietnam | No original Ministry of Health document on diagnosing or treating insomnia verified |
+| Vietnam – Ministry of Health (Decision 2058/QĐ-BYT, 14 May 2020, chapter "Non-organic insomnia") | Following ICD-10: trouble falling asleep, staying asleep or poor-quality sleep **at least 3 times a week for at least 1 month**, clearly affecting daily functioning, not caused by a physical illness, substance or medicine. Treatment has two groups that can be combined: psychological (cognitive behavioural, sleep hygiene) and medicines |
+
+Note: Vietnam uses ICD-10 (a 1-month threshold); the US uses ICSD-3 and DSM-5 (3 months). This article uses 3 months when it speaks of **chronic** insomnia. [Verified for both thresholds; how they are used here: Inference]
 
 **Treatment** [Verified]
 
@@ -40,6 +42,7 @@ sources: [nhs-insomnia-2024, icsd3-insomnia, aasm-cbti-2021, acp-insomnia-2016, 
 |---|---|
 | US – AASM (2021) | Strong recommendation: multicomponent CBT-I for adults with chronic insomnia. Sleep hygiene should not be used alone as the treatment. CBT-I usually takes 4–8 sessions |
 | US – ACP (2016) | All adults with chronic insomnia should get CBT-I as the first treatment |
+| Vietnam – Ministry of Health (Decision 2058/QĐ-BYT, 2020) | Psychological (cognitive behavioural) therapy: go to bed only when sleepy; get up at the same time every morning however little you slept; avoid coffee and tobacco in the evening; exercise daily; no alcohol; practise relaxation. Medicines may be prescribed, combined with psychological therapy |
 | UK – NICE CKS, NHS | CBT-I is first-line for adults of any age, face to face or through a digital programme. Sleeping pills are now rarely prescribed; if used, for a few days, a few weeks at most |
 | Australia – Healthdirect, Sleep Health Foundation | CBT-I is first-line. Sleeping pills are less effective than CBT-I and do not cure insomnia because they don't address the cause |
 
@@ -88,3 +91,4 @@ Checked 25 Nov 2026.
 6. Healthdirect. *Insomnia*. <https://www.healthdirect.gov.au/insomnia>
 7. Sleep Health Foundation (Australia). *Cognitive Behavioural Therapy for Insomnia (CBT-I)*. <https://sleephealthfoundation.org.au/sleep-disorders/cognitive-behavioural-therapy-for-insomnia-cbt-i>
 8. NHS. *Sleep apnoea*. <https://www.nhs.uk/conditions/sleep-apnoea/>
+9. Vietnam Ministry of Health. Decision 2058/QĐ-BYT of 14 May 2020, *Guideline on diagnosis and treatment of common mental disorders*, chapter "Non-organic insomnia". Copy from Thư viện Pháp luật supplied by Peter, checked 26 Nov 2026.

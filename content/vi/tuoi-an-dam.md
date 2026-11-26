@@ -13,8 +13,8 @@ review_due: 2027-05-25
 
 ## Điểm chính
 
-- **Bắt đầu ăn dặm lúc 6 tháng và tiếp tục bú mẹ.** WHO, Mỹ, Úc, Anh thống nhất mốc khoảng 6 tháng; Mỹ và Úc lưu ý không bắt đầu trước 4 tháng. [Đã xác nhận]
-- **Ăn đa dạng mỗi ngày:** thịt, cá hoặc trứng; rau và quả. **Không thêm muối, đường; không mật ong** trước 12 tháng; không đồ uống có đường. [Đã xác nhận]
+- **Bắt đầu ăn dặm lúc 6 tháng và tiếp tục bú mẹ.** Bộ Y tế và WHO: khi tròn 6 tháng (180 ngày). Mỹ, Úc, Anh: khoảng 6 tháng; Mỹ và Úc lưu ý không trước 4 tháng. [Đã xác nhận]
+- **Ăn đa dạng mỗi ngày:** thịt, cá hoặc trứng; rau và quả. **Nêm thật nhạt, không thêm đường, không mật ong** trước 12 tháng; không đồ uống có đường. [Đã xác nhận]
 - Ngủ **12–16 giờ** mỗi ngày; vận động trên sàn **ít nhất 30 phút**; không xem màn hình. [Đã xác nhận]
 
 ## Các tiêu chuẩn nói gì
@@ -27,21 +27,22 @@ review_due: 2027-05-25
 | Mỹ – DGA (trẻ từ sơ sinh đến 2 tuổi) | Khoảng 6 tháng, khi trẻ có dấu hiệu sẵn sàng; không trước 4 tháng. Sữa mẹ hoặc sữa công thức vẫn là thức ăn chính. Ưu tiên thức ăn giàu sắt, kẽm. Cho thử thực phẩm dễ dị ứng (lạc, trứng, hải sản có vỏ, lúa mì) khoảng 6 tháng, trước 12 tháng. Tránh đường bổ sung, đồ nhiều muối, mật ong |
 | Úc – NHMRC, ASCIA | Khoảng 6 tháng, không trước 4 tháng, tốt nhất khi vẫn bú mẹ. Bắt đầu bằng thức ăn giàu sắt. Cho trẻ ăn lạc, trứng chín, sữa, lúa mì trong năm đầu |
 | Anh – NHS (duyệt 19/02/2026) | Khoảng 6 tháng. 3 dấu hiệu sẵn sàng: ngồi vững, giữ đầu thẳng; tự cầm thức ăn đưa vào miệng; nuốt được, không đẩy ra. Lạc, trứng, gluten, cá có thể cho từ khoảng 6 tháng, từng loại một |
-| Việt Nam | Bộ Y tế: bú mẹ hoàn toàn 6 tháng đầu, tiếp tục bú đến 24 tháng. Chưa xác minh được hướng dẫn ăn dặm chi tiết; Viện Dinh dưỡng chưa có tháp cho trẻ dưới 3 tuổi trong bộ 7 tháp 2025 |
+| Việt Nam – Bộ Y tế (QĐ 318/QĐ-BYT, 30/01/2026, *Hướng dẫn ăn bổ sung cho trẻ 6–23 tháng*) | Bắt đầu ăn bổ sung khi tròn 6 tháng (180 ngày), tiếp tục bú mẹ đến 2 tuổi hoặc lâu hơn. Không cho ăn trước 6 tháng; một số trẻ có thể cân nhắc sớm hơn nhưng cần cán bộ y tế đánh giá. Bắt đầu sau 8 tháng là muộn. Mỗi bữa đủ 4 nhóm thực phẩm; thức ăn nguồn động vật (thịt, cá, trứng, sữa) hằng ngày. Số bữa: 6 tháng 1 bữa, 7–8 tháng 2 bữa, 9–11 tháng 3 bữa và có thể thêm 1 bữa phụ, cùng với bú mẹ. Lượng mỗi bữa: 6–8 tháng bắt đầu 2–3 thìa con, tăng dần tới khoảng ½ bát con; 9–11 tháng ½–¾ bát. Không mật ong dưới 1 tuổi; tránh thêm đường; hạn chế nêm nước mắm, gia vị mặn; cho ăn đáp ứng, không ép ăn; không cho xem tivi, điện thoại khi ăn |
 
 **Sữa cho trẻ 6–11 tháng không bú mẹ – các chuẩn lệch nhau** [Đã xác nhận]
 
 | Chuẩn | Khuyến nghị |
 |---|---|
 | WHO (2023) | Có thể dùng sữa công thức hoặc sữa động vật. Nếu dùng sữa động vật: loại nguyên kem, bảo quản an toàn |
+| Việt Nam – Bộ Y tế (QĐ 318/QĐ-BYT, 2026) | Dưới 12 tháng chủ yếu sữa mẹ; nếu cần bổ sung, dùng sữa công thức phù hợp lứa tuổi. Từ 12 tháng có thể dùng thêm sữa động vật tươi tiệt trùng hoặc sữa bột nguyên kem |
 | Mỹ – CDC, Úc – NHMRC, Anh – NHS | Không dùng sữa bò làm đồ uống chính trước 12 tháng. NHS: có thể dùng sữa bò để nấu hoặc trộn vào thức ăn từ khoảng 6 tháng |
 
-Bối cảnh: WHO viết cho mọi quốc gia, kể cả nơi khó có sữa công thức. Mỹ, Úc, Anh viết cho nước có sẵn sữa công thức. Hỏi nhân viên y tế về lựa chọn phù hợp. [Suy luận]
+Bối cảnh: WHO viết cho mọi quốc gia, kể cả nơi khó có sữa công thức. Việt Nam, Mỹ, Úc, Anh đều ưu tiên sữa mẹ hoặc sữa công thức trước 12 tháng. Hỏi nhân viên y tế về lựa chọn phù hợp. [Suy luận]
 
 **Đồ uống** [Đã xác nhận]
 
-- Nước lọc: tập cho uống bằng cốc từ khoảng 6 tháng (NHS). Mỹ: tối đa khoảng 1 cốc (240 ml) mỗi ngày khi đã ăn dặm.
-- Nước ép: Mỹ (CDC) khuyên không cho trẻ dưới 12 tháng; WHO khuyên hạn chế.
+- Nước lọc: Việt Nam (QĐ 318): nước đun sôi để nguội, khoảng 50–100 ml/ngày (6–8 tháng), 120–180 ml/ngày (9–11 tháng), chia vài lần sau bữa ăn; nước không thay sữa mẹ. NHS: tập uống bằng cốc từ khoảng 6 tháng. Mỹ: tối đa khoảng 1 cốc (240 ml) mỗi ngày.
+- Nước ép: Việt Nam (QĐ 318): tránh nước ngọt, trà, nước ép, nhất là trẻ dưới 1 tuổi. Mỹ (CDC): không cho trẻ dưới 12 tháng. WHO: hạn chế.
 
 **Ngủ, vận động, màn hình** [Đã xác nhận]
 
@@ -57,7 +58,7 @@ Ngủ an toàn (nằm ngửa, chỗ ngủ riêng trong phòng cha mẹ) vẫn á
 
 1. **Chờ đủ 6 tháng và có dấu hiệu sẵn sàng.** Bắt đầu lượng nhỏ rồi tăng dần; sữa mẹ vẫn là nguồn chính. [Đã xác nhận – WHO, NHS]
 2. **Mỗi ngày có thịt, cá hoặc trứng,** cùng rau và quả. Đậu, đỗ, hạt nghiền thường xuyên. [Đã xác nhận – WHO]
-3. **Nấu riêng cho trẻ, không nêm** muối, nước mắm, hạt nêm, đường. [Đã xác nhận – NHS, WHO]
+3. **Nấu riêng cho trẻ, nêm thật nhạt.** Bộ Y tế: giai đoạn đầu không cần gia vị; về sau nếu nêm thì chỉ nêm nhạt; tránh thêm đường. NHS: không thêm muối, không dùng hạt nêm. [Đã xác nhận – Bộ Y tế QĐ 318, NHS, WHO]
 4. **Cho thử lạc nghiền, trứng chín, cá** từ khoảng 6 tháng, mỗi lần một loại mới để dễ nhận ra phản ứng. [Đã xác nhận – NHS, DGA]
 5. **Luôn ngồi cạnh khi trẻ ăn.** Không cho hạt nguyên hạt; cắt nho, quả tròn nhỏ làm 4; bỏ hạt, xương. [Đã xác nhận – NHS]
 6. **Cho ăn đáp ứng:** để ý dấu hiệu đói, no; không ép ăn. [Đã xác nhận – WHO]
@@ -66,7 +67,7 @@ Ngủ an toàn (nằm ngửa, chỗ ngủ riêng trong phòng cha mẹ) vẫn á
 ## Hiểu lầm hay gặp
 
 - **"Ăn dặm sớm từ 3–4 tháng cho trẻ cứng cáp."** WHO: bắt đầu lúc 6 tháng. Mỹ, Úc: không trước 4 tháng. Thức đêm, mút tay không phải dấu hiệu sẵn sàng (NHS). [Đã xác nhận]
-- **"Nêm chút nước mắm cho bé ăn ngon."** WHO: không ăn đồ nhiều muối; NHS: không thêm muối, không dùng hạt nêm cho trẻ. [Đã xác nhận]
+- **"Nêm chút nước mắm cho bé ăn ngon."** Bộ Y tế xếp nêm gia vị quá sớm, quá nhiều cho trẻ dưới 1 tuổi vào nhóm sai lầm thường gặp. WHO: không ăn đồ nhiều muối; NHS: không thêm muối. [Đã xác nhận]
 - **"Kiêng trứng, lạc để tránh dị ứng."** Mỹ, Úc, Anh: cho thử các thực phẩm này trong năm đầu; trì hoãn có thể làm tăng nguy cơ dị ứng (Úc). [Đã xác nhận]
 - **"Nước ép trái cây tốt cho bé."** Mỹ: không cho trẻ dưới 12 tháng; ăn quả nguyên tốt hơn. [Đã xác nhận]
 
@@ -105,3 +106,4 @@ Kiểm tra ngày 25/11/2026.
 10. WHO. *Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age* (2019). <https://www.ncbi.nlm.nih.gov/books/NBK541173/>
 11. Cục Phòng bệnh, Bộ Y tế. QĐ 103/QĐ-PB ngày 13/07/2026, mục 2.1.2 a (tr. 10). <https://viendinhduong.vn/storage/app/uploads/public/2026/07/17/2_qd_cuc_pb_ban_hanh_cam_nang_hd_h_tl_fnsigned.pdf>
 12. Paruthi S và cộng sự (AASM). J Clin Sleep Med 2016;12(6):785–786. <https://pmc.ncbi.nlm.nih.gov/articles/PMC4877308>; Úc: <https://www.health.gov.au/topics/physical-activity/24-hour-movement-guidelines-for-all-australians>
+13. Bộ Y tế. QĐ 318/QĐ-BYT ngày 30/01/2026, *Hướng dẫn ăn bổ sung cho trẻ em từ 6 tháng tuổi đến 23 tháng tuổi*, mục I.3, II.1, II.3, II.5.3. Văn bản Peter cung cấp từ Thư viện Pháp luật, đối chiếu 26/11/2026.

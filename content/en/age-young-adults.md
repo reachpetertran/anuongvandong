@@ -41,7 +41,7 @@ These bands come from the published articles; each article gives its own sources
 
 ## What is specific to ages 18–39
 
-**Bones are still "saving up".** According to the NIH (US), bone mass can keep growing until **about age 30**, when it reaches its peak (peak bone mass). Young adults who exercise regularly generally reach a higher peak. (archived NIH page, January 2012) [Verified] The NHS advises weight-bearing, strengthening and balance exercise; not smoking; and not drinking too much alcohol. [Verified] See [Strength and balance](/en/movement/strength-balance/).
+**Bones are still "saving up".** According to the NIH (US), bone mass can keep growing until **about age 30**, when it reaches its peak (peak bone mass). Young adults who exercise regularly generally reach a higher peak. (archived copy: NIH page, January 2012) [Verified] The NHS advises weight-bearing, strengthening and balance exercise; not smoking; and not drinking too much alcohol. [Verified] See [Strength and balance](/en/movement/strength-balance/).
 
 **Sleep.** The AASM and SRS advise adults to sleep 7 hours or more. More than 9 hours may suit young adults or people catching up on lost sleep. [Verified] Late-night study, extra jobs and phone use often shift sleep times. [Inference]
 

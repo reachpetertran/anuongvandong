@@ -26,7 +26,7 @@ review_due: 2027-05-25
 
 | Standard | Recommendation |
 |---|---|
-| Vietnam – Ministry of Health (World Breastfeeding Week 2026) | Breastfeed within the first hour after birth; exclusive breastfeeding for the first 6 months; continue to 24 months |
+| Vietnam – Ministry of Health (Circular 38/2016/TT-BYT, in force 1 Jan 2017, Article 2; Decision 1982/QĐ-BYT, 1 Jul 2026) | Breastfeed within the first hour after birth; exclusive breastfeeding for the first 6 months; continue to 24 months or longer. No food or drink other than breast milk under 6 months unless medically indicated. Feed on demand. No bottles or artificial teats for breastfed babies. Mother and baby stay together 24 hours a day after birth |
 | WHO (fact sheet updated 4 Aug 2026) | Breastfeed within 1 hour; only breast milk for the first 6 months; continue to 2 years or beyond, with complementary foods from 6 months |
 | US – AAP (2022) and DGA | Breast milk only for about 6 months, no other food or drink, not even water. Without breast milk: iron-fortified infant formula; no home-made formula |
 | Australia – NHMRC | Exclusive breastfeeding to around 6 months. Without breast milk, infant formula is the safest alternative under 12 months. No animal milk as the main drink before 12 months |
@@ -50,7 +50,7 @@ The US also advises a vitamin D supplement for breastfed babies from birth. A he
 | US – AAP (2022) | On the back for every sleep. Firm, flat, non-inclined surface with nothing soft. Room-share without bed-sharing for at least the first 6 months. If the baby falls asleep in a car seat, stroller or swing, move them to a flat sleep surface as soon as possible |
 | UK – NHS (reviewed 25 Nov 2025) | On the back, feet at the bottom of the cot. Firm flat mattress; no pillows, duvets, soft toys or bumpers. Own cot in the parents' room for at least 6 months. Never sleep with the baby on a sofa. Don't let the baby overheat. No smoking near the baby |
 | Australia – Red Nose, state health departments | 6 steps: on the back; head and face uncovered; smoke-free before and after birth; safe sleep space day and night; own cot in an adult's room for the first 6–12 months; breastfeed |
-| Vietnam | No official guidance verified |
+| Vietnam | No official Ministry of Health guidance verified. A Vietnamese-language reference: *Safer Sleep for Babies* (Scottish Government and NHS Scotland, 2024, Vietnamese edition) |
 
 The NHS lists when **not to share a bed** with a baby: born before 37 weeks or under 2.5 kg; a parent smokes, has drunk alcohol, used drugs or taken medicine that causes drowsiness. The AAP does not support bed-sharing under any circumstances. [Verified]
 
@@ -64,7 +64,7 @@ The NHS lists when **not to share a bed** with a baby: born before 37 weeks or u
 
 ## How to do it – the minimal version
 
-1. **Feed on demand,** day and night. [Expert judgement] No water, sugar water or honey. [Verified – WHO, DGA, CDC]
+1. **Feed on demand,** day and night. [Verified – Ministry of Health, Circular 38/2016] No water, sugar water or honey. [Verified – WHO, DGA, CDC]
 2. **Every sleep: on the back,** in a cot or bassinet of their own next to the parents' bed. Remove pillows, thick blankets and soft toys. [Verified]
 3. **Dress warmly enough but not too warm,** head uncovered for sleep. [Verified – NHS, Red Nose]
 4. **Tummy time while awake,** with an adult watching, adding up to at least 30 minutes a day. [Verified]
@@ -100,7 +100,7 @@ A baby facing violence or neglect: call **111** (Vietnam's national child protec
 
 Checked 25 Nov 2026.
 
-1. Document implementing World Breastfeeding Week 2026, stating the Ministry of Health's advice (Tuyên Quang provincial portal, Jul 2026). <https://khodulieu.sohoa.tuyenquang.gov.vn/congthongtin/media/5d8e2cc34c23121d38e592b6472bd835.pdf>; Đại Đoàn Kết newspaper: <https://daidoanket.vn/de-moi-tre-em-deu-duoc-nuoi-bang-sua-me-10287515.html>
+1. Vietnam Ministry of Health. Circular 38/2016/TT-BYT of 31 Oct 2016 on measures to promote breastfeeding at health facilities, Article 2(1) ("Ten conditions for breastfeeding"). The Ministry's 2026 World Breastfeeding Week letter still requires implementing it: <https://khodulieu.sohoa.tuyenquang.gov.vn/congthongtin/media/5d8e2cc34c23121d38e592b6472bd835.pdf>. Ministry of Health. Decision 1982/QĐ-BYT of 1 Jul 2026, *Technical guidance on nutrition measures for disease prevention*, communication messages. Copies from Thư viện Pháp luật supplied by Peter, checked 26 Nov 2026.
 2. WHO. *Infant and young child feeding* (fact sheet, 4 Aug 2026). <https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding>
 3. Meek JY, Noble L. *Policy Statement: Breastfeeding and the Use of Human Milk*. Pediatrics 2022;150(1):e2022057988. AAP page: <https://www.aap.org/en/patient-care/newborn-and-infant-nutrition/newborn-and-infant-breastfeeding/>
 4. DGA 2025–2030. *Healthy Eating for Babies & Young Children (Birth to Age 2)*. <https://odphp.health.gov/sites/default/files/2026-10/dga-babies-children.pdf>
@@ -114,3 +114,4 @@ Checked 25 Nov 2026.
 12. NHS. *Reduce the risk of sudden infant death syndrome (SIDS)* (reviewed 25 Nov 2025). <https://www.nhs.uk/baby/caring-for-a-newborn/reduce-the-risk-of-sudden-infant-death-syndrome/>
 13. Healthy WA (Western Australia Department of Health). *Safe infant sleeping*. <https://healthywa.health.wa.gov.au/Articles/S_T/Safe-infant-sleeping>; Better Health Channel (Victoria): <https://www.betterhealth.vic.gov.au/health/healthyliving/safe-sleeping-checklist>
 14. Department of Disease Prevention, Ministry of Health (Vietnam). Decision 103/QĐ-PB of 13 Jul 2026, section 2.1.2 a (p. 10). <https://viendinhduong.vn/storage/app/uploads/public/2026/07/17/2_qd_cuc_pb_ban_hanh_cam_nang_hd_h_tl_fnsigned.pdf>
+15. Scottish Government, NHS Scotland. *Safer Sleep for Babies – a guide for parents and carers* (Vietnamese edition, 2024; ISBN 978-1-83601-801-8). List of translations: <https://www.gov.scot/publications/safer-sleep-babies-2024-guide-parents-carers/documents/>

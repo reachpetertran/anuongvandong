@@ -16,8 +16,8 @@ review_due: 2027-05-25
 
 ## Key points
 
-- **Start solids at 6 months and keep breastfeeding.** WHO, the US, Australia and the UK agree on around 6 months; the US and Australia note not before 4 months. [Verified]
-- **A varied diet every day:** meat, fish or eggs; vegetables and fruit. **No added salt or sugar; no honey** before 12 months; no sugary drinks. [Verified]
+- **Start solids at 6 months and keep breastfeeding.** Vietnam's Ministry of Health and WHO: at 6 completed months (180 days). The US, Australia, the UK: around 6 months; the US and Australia note not before 4 months. [Verified]
+- **A varied diet every day:** meat, fish or eggs; vegetables and fruit. **Very light seasoning, no added sugar, no honey** before 12 months; no sugary drinks. [Verified]
 - Sleep **12–16 hours** a day; floor play **at least 30 minutes**; no screens. [Verified]
 
 ## What the standards say
@@ -30,21 +30,22 @@ review_due: 2027-05-25
 | US – DGA (birth to age 2) | Around 6 months, when the baby shows signs of readiness; not before 4 months. Breast milk or formula is still the main food. Favour iron- and zinc-rich foods. Introduce common allergens (peanut, egg, shellfish, wheat) around 6 months, before 12 months. Avoid added sugars, salty foods and honey |
 | Australia – NHMRC, ASCIA | Around 6 months, not before 4 months, preferably while breastfeeding. Start with iron-rich foods. Give peanut, cooked egg, dairy and wheat in the first year |
 | UK – NHS (reviewed 19 Feb 2026) | Around 6 months. 3 signs of readiness: sits up and holds head steady; picks up food and puts it in the mouth; swallows food rather than pushing it out. Peanut, egg, gluten and fish can be given from around 6 months, one at a time |
-| Vietnam | Ministry of Health: exclusive breastfeeding for 6 months, continue to 24 months. Detailed weaning guidance not verified; the NIN's 2025 set of 7 pyramids has no pyramid for children under 3 |
+| Vietnam – Ministry of Health (Decision 318/QĐ-BYT, 30 Jan 2026, *Guidance on complementary feeding for children 6–23 months*) | Start complementary food at 6 completed months (180 days), keep breastfeeding to 2 years or longer. Not before 6 months; some babies may start earlier, but only after a health worker's assessment. Starting after 8 months is late. Each meal has all 4 food groups; animal-source foods (meat, fish, eggs, milk) daily. Meals: 1 a day at 6 months, 2 at 7–8 months, 3 at 9–11 months plus an optional snack, alongside breastfeeding. Amount per meal: at 6–8 months start with 2–3 teaspoons, building up to about ½ a small bowl; 9–11 months ½–¾ bowl. No honey under 1 year; no added sugar; go easy on fish sauce and salty seasoning; responsive feeding, no force-feeding; no TV or phone during meals |
 
 **Milk for 6–11-month-olds who are not breastfed – the standards differ** [Verified]
 
 | Standard | Recommendation |
 |---|---|
 | WHO (2023) | Either formula or animal milk can be used. If animal milk: full-fat, stored and handled safely |
+| Vietnam – Ministry of Health (Decision 318/QĐ-BYT, 2026) | Under 12 months mainly breast milk; if more is needed, use an age-appropriate infant formula. From 12 months, pasteurised animal milk or full-fat milk powder can be added |
 | US – CDC, Australia – NHMRC, UK – NHS | No cow's milk as the main drink before 12 months. NHS: cow's milk can be used in cooking or mixed into food from about 6 months |
 
-Context: WHO writes for every country, including places where formula is hard to get. The US, Australia and the UK write for countries where formula is readily available. Ask a health worker which fits you. [Inference]
+Context: WHO writes for every country, including places where formula is hard to get. Vietnam, the US, Australia and the UK all favour breast milk or formula before 12 months. Ask a health worker which fits you. [Inference]
 
 **Drinks** [Verified]
 
-- Water: introduce a cup from around 6 months (NHS). US: up to about 1 cup (240 ml) a day once solids start.
-- Juice: the US (CDC) advises none under 12 months; WHO advises limiting it.
+- Water: Vietnam (Decision 318): boiled, cooled water, about 50–100 ml a day (6–8 months) and 120–180 ml a day (9–11 months), in small amounts after meals; water does not replace breast milk. NHS: introduce a cup from around 6 months. US: up to about 1 cup (240 ml) a day.
+- Juice: Vietnam (Decision 318): avoid sweet drinks, tea and juice, especially under 1 year. US (CDC): none under 12 months. WHO: limit it.
 
 **Sleep, activity, screens** [Verified]
 
@@ -60,7 +61,7 @@ Safe sleep (on the back, own sleep space in the parents' room) still applies up 
 
 1. **Wait until 6 months and signs of readiness.** Start with small amounts and build up; breast milk stays the main source. [Verified – WHO, NHS]
 2. **Every day include meat, fish or eggs,** with vegetables and fruit. Mashed beans, lentils and ground nuts often. [Verified – WHO]
-3. **Cook the baby's food separately, unseasoned:** no salt, fish sauce, stock powder or sugar. [Verified – NHS, WHO]
+3. **Cook the baby's food separately, very lightly seasoned.** Vietnam's Ministry of Health: no seasoning at first; later, if you season, keep it light; no added sugar. NHS: no added salt or stock. [Verified – Ministry of Health Decision 318, NHS, WHO]
 4. **Offer ground peanut, cooked egg and fish** from around 6 months, one new food at a time so reactions are easy to spot. [Verified – NHS, DGA]
 5. **Always sit with the baby while they eat.** No whole nuts; cut grapes and small round foods into quarters; remove pips and bones. [Verified – NHS]
 6. **Feed responsively:** watch for hunger and fullness signs; don't force food. [Verified – WHO]
@@ -69,7 +70,7 @@ Safe sleep (on the back, own sleep space in the parents' room) still applies up 
 ## Common misunderstandings
 
 - **"Start solids at 3–4 months to make the baby strong."** WHO: start at 6 months. US, Australia: not before 4 months. Waking at night or chewing fists are not signs of readiness (NHS). [Verified]
-- **"A little fish sauce makes it tastier."** WHO: no salty foods; NHS: no added salt or stock for babies. [Verified]
+- **"A little fish sauce makes it tastier."** Vietnam's Ministry of Health lists seasoning too early or too much for babies under 1 as a common mistake. WHO: no salty foods; NHS: no added salt. [Verified]
 - **"Avoid egg and peanut to prevent allergy."** US, Australia, UK: introduce these foods in the first year; delaying may raise allergy risk (Australia). [Verified]
 - **"Fruit juice is good for babies."** US: none under 12 months; whole fruit is better. [Verified]
 
@@ -108,3 +109,4 @@ Checked 25 Nov 2026.
 10. WHO. *Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age* (2019). <https://www.ncbi.nlm.nih.gov/books/NBK541173/>
 11. Department of Disease Prevention, Ministry of Health (Vietnam). Decision 103/QĐ-PB of 13 Jul 2026, section 2.1.2 a (p. 10). <https://viendinhduong.vn/storage/app/uploads/public/2026/07/17/2_qd_cuc_pb_ban_hanh_cam_nang_hd_h_tl_fnsigned.pdf>
 12. Paruthi S et al. (AASM). J Clin Sleep Med 2016;12(6):785–786. <https://pmc.ncbi.nlm.nih.gov/articles/PMC4877308>; Australia: <https://www.health.gov.au/topics/physical-activity/24-hour-movement-guidelines-for-all-australians>
+13. Vietnam Ministry of Health. Decision 318/QĐ-BYT of 30 Jan 2026, *Guidance on complementary feeding for children aged 6 to 23 months*, sections I.3, II.1, II.3, II.5.3. Copy from Thư viện Pháp luật supplied by Peter, checked 26 Nov 2026.

@@ -4,7 +4,7 @@ url: /an-uong/caffeine/
 order: 108
 status: published
 title: "Caffeine: cà phê, trà, nước tăng lực"
-short: "Châu Âu, Mỹ, Anh lấy mốc khoảng 400 mg caffeine/ngày cho người lớn khỏe. Úc không đặt mức an toàn chính thức. Việt Nam chưa có khuyến nghị đã xác minh. Cách tự đếm và khi nào nên bớt."
+short: "Châu Âu, Mỹ, Anh lấy mốc khoảng 400 mg caffeine/ngày cho người lớn khỏe. Úc không đặt mức an toàn chính thức. Việt Nam chưa có số mg cho người lớn. Cách tự đếm và khi nào nên bớt."
 age_groups: [18-39, 40-64]
 pillar: an-uong
 evidence_level: "Trung bình (đánh giá nguy cơ của EFSA dựa trên tổng hợp nghiên cứu, phần lớn là quan sát)"
@@ -23,7 +23,7 @@ sources: [efsa-caffeine-2015, fda-caffeine-2024, fsanz-caffeine-2025, fsa-caffei
 
 | Chuẩn | Người lớn khỏe | Ghi chú |
 |---|---|---|
-| Việt Nam | Chưa xác minh được khuyến nghị lượng caffeine cho người lớn | – |
+| Việt Nam – Bộ Y tế (QĐ 1982/QĐ-BYT, 01/07/2026) | Chưa có số mg cho người lớn. Người làm ca: tránh thức ăn, đồ uống có cà phê vào cuối ca để không ảnh hưởng giấc ngủ | Phụ nữ có thai: hạn chế cà phê; bà mẹ cho con bú: không uống cà phê (QĐ 776/QĐ-BYT, 2017) |
 | WHO | Chưa tìm thấy khuyến nghị lượng caffeine | – |
 | Châu Âu – EFSA (2015) | Đến **400 mg/ngày**, chia trong ngày, không đáng lo ngại | Liều một lần đến **200 mg** không đáng lo ngại. **100 mg** gần giờ ngủ có thể ảnh hưởng giấc ngủ ở một số người. |
 | Mỹ – FDA (cập nhật 28/08/2024) | **400 mg/ngày** thường không gắn với tác hại | Khoảng 2–3 cốc cà phê 355 ml. Mức chịu đựng khác nhau tùy người, tùy thuốc đang dùng. |
@@ -67,7 +67,7 @@ Cà phê phin, trà sữa kiểu Việt Nam: **chưa xác minh được** số �
 
 ## Ai cần thận trọng
 
-- **Mang thai, định có thai, cho con bú:** có mức riêng thấp hơn (EFSA, NHS: tối đa 200 mg/ngày). FDA khuyên hỏi nhân viên y tế. Xem [Mang thai và cho con bú](/tuoi/mang-thai-cho-bu/). [Đã xác nhận]
+- **Mang thai, định có thai, cho con bú:** có mức riêng thấp hơn (EFSA, NHS: tối đa 200 mg/ngày). FDA khuyên hỏi nhân viên y tế. Bộ Y tế Việt Nam: phụ nữ có thai hạn chế cà phê. Xem [Mang thai và cho con bú](/tuoi/mang-thai-cho-bu/). [Đã xác nhận]
 - **Dưới 18 tuổi:** EFSA đề xuất mức 3 mg/kg/ngày. Viện Hàn lâm Nhi khoa Mỹ (AAP) khuyên trẻ em, thiếu niên không dùng nước tăng lực. Bài này không áp dụng cho trẻ em. [Đã xác nhận]
 - **Người hay hồi hộp, lo âu, mất ngủ, tăng huyết áp, bệnh tim, hoặc đang dùng thuốc:** FDA ghi mức "quá nhiều" khác nhau tùy bệnh và thuốc. Hỏi bác sĩ, dược sĩ. [Đã xác nhận]
 - **Người dùng viên, bột tập gym có caffeine:** cộng cả lượng này với cà phê, trà trong ngày (FSA). [Đã xác nhận]
@@ -93,3 +93,4 @@ Kiểm tra ngày 25/11/2026.
 5. FSANZ. *Caffeine powders and high caffeine content foods* (P1054, 2019). <https://www.foodstandards.gov.au/consumer/prevention-of-foodborne-illness/caffeine-powders-and-high-caffeine-content-foods>
 6. Food Standards Agency (Anh). *Food supplements containing caffeine*. <https://www.food.gov.uk/safety-hygiene/food-supplements-containing-caffeine>
 7. NHS. *Foods to avoid in pregnancy* – mục caffeine (xem lại 15/06/2026). <https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/>
+8. Bộ Y tế. QĐ 1982/QĐ-BYT ngày 01/07/2026, phần thông điệp truyền thông (phụ nữ có thai, người làm ca); QĐ 776/QĐ-BYT ngày 08/03/2017 (bà mẹ cho con bú). Văn bản Peter cung cấp từ Thư viện Pháp luật, đối chiếu 26/11/2026.

@@ -29,7 +29,9 @@ sources: [nhs-insomnia-2024, icsd3-insomnia, aasm-cbti-2021, acp-insomnia-2016, 
 |---|---|
 | ICSD-3 (AASM) và DSM-5 | Khó vào giấc hoặc duy trì giấc ngủ, ít nhất 3 đêm/tuần, ít nhất 3 tháng, dù có đủ cơ hội ngủ; kèm ít nhất một ảnh hưởng ban ngày: mệt, kém tập trung hay trí nhớ, cáu gắt, buồn ngủ, giảm hiệu quả học tập – làm việc. Dưới 3 tháng: mất ngủ ngắn hạn |
 | Anh – NHS (duyệt 19/03/2024) | Mất ngủ từ 3 tháng trở lên là mất ngủ dài hạn; dưới 3 tháng là ngắn hạn |
-| Việt Nam | Chưa xác minh được văn bản gốc của Bộ Y tế về chẩn đoán, điều trị mất ngủ |
+| Việt Nam – Bộ Y tế (QĐ 2058/QĐ-BYT, 14/05/2020, bài "Mất ngủ không thực tổn") | Theo ICD-10: khó vào giấc, khó duy trì giấc ngủ hoặc ngủ không ngon, **ít nhất 3 lần/tuần trong ít nhất 1 tháng**, gây suy giảm rõ hoạt động hằng ngày, không do bệnh thực thể, chất hay thuốc. Điều trị gồm hai nhóm, có thể kết hợp: tâm lý (nhận thức – hành vi, vệ sinh giấc ngủ) và thuốc |
+
+Lưu ý: Việt Nam dùng ICD-10 (mốc 1 tháng); Mỹ dùng ICSD-3, DSM-5 (mốc 3 tháng). Bài này dùng mốc 3 tháng để nói về mất ngủ **mạn tính**. [Đã xác nhận cho hai mốc; cách dùng: Suy luận]
 
 **Điều trị** [Đã xác nhận]
 
@@ -37,6 +39,7 @@ sources: [nhs-insomnia-2024, icsd3-insomnia, aasm-cbti-2021, acp-insomnia-2016, 
 |---|---|
 | Mỹ – AASM (2021) | Khuyến nghị mạnh: dùng CBT-I nhiều thành phần cho người lớn mất ngủ mạn tính. Không dùng riêng việc học thói quen ngủ làm điều trị duy nhất. CBT-I thường 4–8 buổi |
 | Mỹ – ACP (2016) | Mọi người lớn mất ngủ mạn tính nên được điều trị CBT-I trước tiên |
+| Việt Nam – Bộ Y tế (QĐ 2058/QĐ-BYT, 2020) | Liệu pháp tâm lý (nhận thức – hành vi): chỉ đi ngủ khi buồn ngủ; dậy cùng giờ mỗi sáng dù đêm trước ngủ ít; tránh cà phê, thuốc lá buổi tối; tập thể dục hằng ngày; không uống rượu; tập thư giãn. Có thể dùng thuốc theo chỉ định, kết hợp với liệu pháp tâm lý |
 | Anh – NICE CKS, NHS | CBT-I là điều trị đầu tay cho người lớn mọi lứa tuổi, trực tiếp hoặc qua chương trình số. Thuốc ngủ nay hiếm được kê; nếu dùng thì vài ngày, tối đa vài tuần |
 | Úc – Healthdirect, Sleep Health Foundation (Úc) | CBT-I là điều trị đầu tay. Thuốc ngủ kém hiệu quả hơn CBT-I và không chữa được mất ngủ vì không giải quyết nguyên nhân |
 
@@ -85,3 +88,4 @@ Kiểm tra ngày 25/11/2026.
 6. Healthdirect. *Insomnia*. <https://www.healthdirect.gov.au/insomnia>
 7. Sleep Health Foundation (Úc). *Cognitive Behavioural Therapy for Insomnia (CBT-I)*. <https://sleephealthfoundation.org.au/sleep-disorders/cognitive-behavioural-therapy-for-insomnia-cbt-i>
 8. NHS. *Sleep apnoea*. <https://www.nhs.uk/conditions/sleep-apnoea/>
+9. Bộ Y tế. QĐ 2058/QĐ-BYT ngày 14/05/2020, *Hướng dẫn chẩn đoán và điều trị một số rối loạn tâm thần thường gặp*, bài "Mất ngủ không thực tổn". Văn bản Peter cung cấp từ Thư viện Pháp luật, đối chiếu 26/11/2026.

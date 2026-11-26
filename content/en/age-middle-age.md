@@ -52,7 +52,7 @@ These bands come from the published articles; each article gives its own sources
 
 Screening means testing people **without symptoms**. The tables only summarise each country's general programme; it is not a personal schedule. "Not verified" means the site has not found an official recommendation. [Verified]
 
-**Vietnam: a free yearly health check is now in effect.** Under Directive 17/CT-TTg (6 May 2026), from 2026 everyone can have a free periodic check-up or screening at least once a year. The Ministry of Health issued guidance on its content on 12 May 2026. Adults get blood pressure, blood and urine tests and a chest X-ray; women get a gynaecology check that includes cervical and breast cancer screening. Ask your commune or ward health station for the schedule. [Verified]
+**Vietnam: a free yearly health check is now in effect.** Under Directive 17/CT-TTg (6 May 2026), from 2026 everyone can have a free periodic check-up or screening at least once a year. [Verified] What the check covers follows the Ministry of Health's current technical guidance; the first guidance letter (3401/BYT-KCB, 12 May 2026) is no longer in force, and the site has not yet been able to confirm the new list. Ask your commune or ward health station for the schedule and what is included.
 
 **Blood pressure, heart, blood sugar**
 
@@ -69,7 +69,7 @@ Screening means testing people **without symptoms**. The tables only summarise e
 | Standard | Recommendation |
 |---|---|
 | WHO | not verified |
-| Vietnam | HCDC Ho Chi Minh City (2025): **from age 50**, faecal occult blood test, for healthy people without a family history of cancer (no interval given). The site has not found a national Ministry of Health screening guideline |
+| Vietnam | HCDC Ho Chi Minh City (2025): **from age 50**, faecal occult blood test, for healthy people without a family history of cancer (no interval given). The Ministry of Health's guideline on diagnosing and treating colorectal cancer (Decision 2549/QĐ-BYT, 19 Apr 2018) gives no screening schedule; the site has not found a national screening guideline |
 | US (USPSTF) | **Ages 45–75** (2021) |
 | Australia | **Ages 45–74, every 2 years**, free home stool test (starting age lowered from 50 to 45 on 1 July 2024) |
 | UK (NHS, England) | **Ages 50–74, every 2 years** |
@@ -79,7 +79,7 @@ Screening means testing people **without symptoms**. The tables only summarise e
 | Standard | Recommendation |
 |---|---|
 | WHO | not verified |
-| Vietnam | Ministry of Health (Decision 3898/QĐ-BYT, 18 Dec 2025), average-risk women: ages 25–39 monthly breast self-exam and a clinical exam every 1–3 years; **ages 40–70: every year** clinical exam and mammogram, plus ultrasound for dense breasts. High risk: start at 25. Included in the free periodic gynaecology check |
+| Vietnam | Ministry of Health (Decision 3898/QĐ-BYT, 18 Dec 2025), average-risk women: ages 25–39 monthly breast self-exam and a clinical exam every 1–3 years; **ages 40–70: every year** clinical exam and mammogram, plus ultrasound for dense breasts. High risk: start at 25. |
 | US (USPSTF) | **Ages 40–74, every 2 years**, mammogram (2024) |
 | Australia | Invites **ages 50–74, every 2 years**; free from age 40 |
 | UK (NHS, England) | **Ages 50 up to 71st birthday, every 3 years** |
@@ -89,7 +89,7 @@ Screening means testing people **without symptoms**. The tables only summarise e
 | Standard | Recommendation |
 |---|---|
 | WHO | From **age 30**, HPV DNA test every 5–10 years; priority ages 30–49 (2021) |
-| Vietnam | Ministry of Health (Decision 3792/QĐ-BYT, 17 Dec 2024): women **21–65** who have had sex, priority ages 30–49; HPV test **every 5 years** (from 25) or cytology, VIA/VILI **every 3 years** (from 21). Included in the free periodic gynaecology check |
+| Vietnam | Ministry of Health (Decision 3792/QĐ-BYT, 17 Dec 2024): women **21–65** who have had sex, priority ages 30–49; HPV test **every 5 years** (from 25) or cytology, VIA/VILI **every 3 years** (from 21). |
 | US (USPSTF) | Ages 30–65: cytology every 3 years, or HPV (alone or co-testing) every 5 years (2018, update in progress) |
 | Australia | **Ages 25–74, every 5 years** |
 | UK (NHS, England) | **Ages 25–64, every 5 years** |
@@ -131,7 +131,7 @@ Checked on 25 November 2026. Sources for the linked articles are in each article
 
 1. Vietnam Ministry of Health. Official Letter No. 3918/BYT-DP of 23 July 2020 on salt-reduction communication and blood pressure checks (copy on the Khánh Hòa provincial portal). <https://khanhhoa.gov.vn/Resources/Docs/SubDomain/HomePage/Tuyentruyen/2020/3918-BYT.pdf>
 2. Hà Tĩnh provincial portal. *Prime Minister's Directive on free periodic health check-ups* (Directive 17/CT-TTg of 6 May 2026), posted 7 May 2026. <https://hatinh.gov.vn/vi/bai-viet/chi-thi-cua-thu-tuong-ve-to-chuc-kham-suc-khoe-dinh-ky-mien-phi-cho-nguoi-dan>
-3. Government News (Báo Chính phủ). *Guidance on the list of periodic health check items* (12 May 2026). <https://baochinhphu.vn/huong-dan-danh-muc-kham-suc-khoe-dinh-ky-cho-nguoi-dan-102260512185958238.htm>
+3. Vietnam Ministry of Health. Decision 2549/QĐ-BYT of 19 Apr 2018, *Guideline on diagnosis and treatment of colorectal cancer* (no screening section). Copy from Thư viện Pháp luật supplied by Peter, checked 26 Nov 2026.
 4. WHO. *New recommendations for screening and treatment to prevent cervical cancer* (6 July 2021). <https://www.who.int/news/item/06-07-2021-new-recommendations-for-screening-and-treatment-to-prevent-cervical-cancer>; PAHO, same day: <https://www.paho.org/en/news/6-7-2021-new-recommendations-screening-and-treatment-prevent-cervical-cancer>
 5. USPSTF. *Hypertension in Adults: Screening* (27 Apr 2021). <https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/hypertension-in-adults-screening>
 6. USPSTF. *Prediabetes and Type 2 Diabetes: Screening* (24 Aug 2021). <https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-for-prediabetes-and-type-2-diabetes>
@@ -149,5 +149,5 @@ Checked on 25 November 2026. Sources for the linked articles are in each article
 18. NHS. *Cervical screening* (updated 26 Jan 2026). <https://www.nhs.uk/conditions/cervical-screening/>
 19. NHS. *Osteoporosis – Causes* (reviewed 13 Oct 2022). <https://www.nhs.uk/conditions/osteoporosis/causes/>; *Prevention* (reviewed 29 Oct 2026): <https://www.nhs.uk/conditions/osteoporosis/prevention/>
 20. Vietnam Ministry of Health. *Guidance on prevention and control of cervical cancer*, issued with Decision 3792/QĐ-BYT of 17 Dec 2024, section 5.1. <https://adminmoh.moh.gov.vn/documents/20182/0/3-HD+DP&KS+UTCTC-Final.pdf/e66acc1f-012a-4dcc-bbae-a29be596ea9e>
-21. Vietnam Ministry of Health. Decision 3898/QĐ-BYT of 18 Dec 2025 issuing *Guidance on early detection screening for breast cancer*, section IV Screening schedule (copy on Thư viện Pháp luật). <https://cdn.thuvienphapluat.vn/uploads/DanLuat-BanAn/2025/2/685061.pdf>; number and date checked against Bắc Ninh provincial Plan 156/KH-UBND: <https://bacninh.gov.vn/documents/37632/112624304/156-KH-UBND.pdf>
+21. Vietnam Ministry of Health. Decision 3898/QĐ-BYT of 18 Dec 2025 issuing *Guidance on early detection screening for breast cancer*, section IV Screening schedule. Checked against the numbered, dated copy (Thư viện Pháp luật, supplied by Peter 26 Nov 2026). <https://cdn.thuvienphapluat.vn/uploads/DanLuat-BanAn/2025/2/685061.pdf>
 22. HCDC – Ho Chi Minh City Center for Disease Control. *Three cancers that can be detected early through screening* (updated 5 Mar 2025). <https://hcdc.vn/03-loai-ung-thu-co-the-duoc-phat-hien-som-qua-sang-loc-rS4ufj.html>

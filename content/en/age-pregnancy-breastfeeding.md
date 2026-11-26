@@ -61,9 +61,9 @@ Decision 103 cautions: avoid exercise in very hot, humid weather; drink enough; 
 |---|---|
 | UK – NHS (reviewed 15 Jun 2026) | Avoid: alcohol; unpasteurised dairy; raw or undercooked meat; liver and liver products (high in vitamin A); raw fish and shellfish; swordfish, shark, marlin. Limit: caffeine to 200 mg a day; oily fish to 2 portions a week |
 | Alcohol – Australia, UK, US | All three advise not drinking in pregnancy. Australia advises not drinking while breastfeeding. See [Alcohol](/en/eating/alcohol/) |
-| Vietnam | No official list verified |
+| Vietnam – Ministry of Health (Decision 776/QĐ-BYT, 8 Mar 2017; Decision 1982/QĐ-BYT, 1 Jul 2026) | Pregnancy: avoid alcohol and tobacco; Decision 776 advises against stimulant drinks such as coffee and strong tea, while the newer Decision 1982 says "limit coffee". Eat less salt, especially with swelling or high blood pressure. Don't restrict food too much. Breastfeeding: no alcohol, coffee or smoking; limit heavily spiced food |
 
-NHS: 200 mg of caffeine is about 2 cups of instant coffee. See also [Caffeine](/en/eating/caffeine/). [Verified]
+On caffeine the standards differ: Vietnam advises limiting or avoiding coffee without giving a figure; the NHS and EFSA set a maximum of 200 mg a day, about 2 cups of instant coffee according to the NHS. See also [Caffeine](/en/eating/caffeine/). [Verified]
 
 **Micronutrients and antenatal care** [Verified]
 
@@ -71,7 +71,8 @@ NHS: 200 mg of caffeine is about 2 cups of instant coffee. See also [Caffeine](/
 |---|---|
 | WHO – Antenatal care (2016) | Daily iron and folic acid supplements in pregnancy to prevent anaemia and low birth weight. At least 8 contacts with a health worker during pregnancy |
 | WHO – eLENA (updated 26 Jul 2024) | Folic acid should start as early as possible, ideally before conception |
-| Vietnam | No document verified on number of antenatal visits or supplements |
+| Vietnam – Ministry of Health (Decision 776/QĐ-BYT, 2017) | Daily iron/folic acid tablets for all pregnant women, through pregnancy to 1 month after birth; given from the first antenatal visit. Anaemia is treated with therapeutic doses per protocol |
+| Vietnam – Social Insurance Law 41/2024/QH15 (in force 1 Jul 2025), Article 51 | Women in compulsory social insurance may take paid maternity leave for antenatal visits **up to 5 times**, no more than 2 days each. This is a leave entitlement, not a medical recommendation on how many visits to have. The site has not verified a Ministry of Health recommendation on the number of visits |
 
 Dose and type of supplement: set by a health worker after a check-up. The site gives no doses. [Expert judgement]
 
@@ -80,7 +81,7 @@ Dose and type of supplement: set by a health worker after a check-up. The site g
 1. **See a health worker early** once you know you are pregnant, and keep to the check-up schedule. [Verified – WHO]
 2. **Eat by your stage's pyramid column.** No need to "eat for two" from the start: grains are 12 units in the first trimester, 13.5 in the third. [Verified]
 3. **Cook food thoroughly.** Avoid raw or rare meat, raw eggs, raw seafood, unpasteurised milk. [Verified – NHS]
-4. **No alcohol, no tobacco.** Caffeine under 200 mg a day. [Verified]
+4. **No alcohol, no tobacco.** Limit coffee and strong tea; if you have them, international standards set a limit of under 200 mg caffeine a day. [Verified]
 5. **Brisk walking, swimming, pregnancy yoga** adding up to 150 minutes a week, unless a doctor has told you to limit activity. Pelvic floor exercises daily. [Verified – Decision 103]
 6. **While breastfeeding:** use the "Breastfeeding" column; the pyramid gives about 11 cups of 200 ml water a day. [Verified]
 
@@ -119,3 +120,5 @@ Checked 25 Nov 2026.
 6. NHS. *Foods to avoid in pregnancy* (reviewed 15 Jun 2026). <https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/>
 7. WHO. *WHO recommendations on antenatal care for a positive pregnancy experience* (2016). <https://www.who.int/publications/i/item/9789241549912>; WHO news 7 Nov 2016: <https://www.who.int/news/item/07-11-2016-new-guidelines-on-antenatal-care-for-a-positive-pregnancy-experience>
 8. WHO eLENA. *Daily iron and folic acid supplementation during pregnancy* (updated 26 Jul 2024). <https://www.who.int/tools/elena/interventions/daily-iron-pregnancy>
+9. Vietnam Ministry of Health. Decision 776/QĐ-BYT of 8 Mar 2017, *National guidance on nutrition for pregnant and breastfeeding women*; Decision 1982/QĐ-BYT of 1 Jul 2026, messages for pregnant and breastfeeding women. Copies from Thư viện Pháp luật supplied by Peter, checked 26 Nov 2026.
+10. Social Insurance Law No. 41/2024/QH15 (Vietnam), Article 51 (as summarised by LuatVietnam; confirmed by Peter 26 Nov 2026). <https://luatvietnam.vn/bao-hiem/quy-dinh-moi-ve-che-do-nghi-kham-thai-tu-ngay-01-7-2025-563-103219-article.html>
