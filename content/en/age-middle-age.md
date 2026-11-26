@@ -20,9 +20,9 @@ review_due: 2027-05-25
 
 ## How the standards split ages
 
-| Standard | Age bands | What it means for ages 40–64 | Article on this site |
+| Standard | Ages | What it means for 40–64 | Article |
 |---|---|---|---|
-| Vietnam – Department of Disease Prevention (Decision 103/QĐ-PB, 2026), activity | 18–59; 60 and over | From 60: add multicomponent (balance) activity at least 3 days a week | [Strength and balance](/en/movement/strength-balance/) |
+| Vietnam – Decision 103 (2026), activity | 18–59; 60 and over | From 60: add multi-part (balance) activity at least 3 days a week | [Strength and balance](/en/movement/strength-balance/) |
 | WHO (2020), activity | 18–64 | General adult advice | [Active minutes](/en/movement/active-minutes/) |
 | Australia – 24-Hour Movement Guidelines (2026) | 18–64 | Balance and coordination at least 3 days a week for all adults 18–64 | [Strength and balance](/en/movement/strength-balance/) |
 | US – CDC, sleep | 18–60; 61–64 | 18–60: 7 hours or more; 61–64: 7–9 hours | [How much sleep](/en/sleep/how-much-sleep/) |
