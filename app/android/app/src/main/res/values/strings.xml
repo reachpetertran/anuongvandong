@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Ăn Uống Vận Động</string>
+    <string name="title_activity_main">Ăn Uống Vận Động</string>
+    <string name="package_name">com.anuongvandong.app</string>
+    <string name="custom_url_scheme">com.anuongvandong.app</string>
+</resources>

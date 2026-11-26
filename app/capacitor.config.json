@@ -1,0 +1,13 @@
+{
+  "appId": "com.anuongvandong.app",
+  "appName": "Ăn Uống Vận Động",
+  "webDir": "www",
+  "android": {
+    "androidScheme": "https",
+    "allowMixedContent": false,
+    "webContentsDebuggingEnabled": false
+  },
+  "plugins": {
+    "SystemBars": { "insetsHandling": "css" }
+  }
+}
